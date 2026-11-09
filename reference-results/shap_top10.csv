@@ -1,0 +1,21 @@
+task,feature,mean_abs_shap
+success,sum_mean_score,0.8740522222207616
+success,sum_click_pct_in_pres,0.2533427253623007
+success,last2_click_pct_in_pres,0.2213300639996251
+success,highest_education_Lower Than A Level,0.2027635648475468
+success,sum_n_late,0.18047265921731842
+success,sum_quiz,0.12313555165348891
+success,last2_homepage,0.10739899748448119
+success,last_active_week,0.10682334164514648
+success,module_presentation_length,0.1026159287949757
+success,last2_mean_score,0.09800816386246657
+withdrawal,sum_mean_score,0.38003315373823027
+withdrawal,studied_credits,0.15071243777088977
+withdrawal,last2_click_pct_in_pres,0.12817233655813262
+withdrawal,sum_n_late,0.11550054907377807
+withdrawal,trend_mean_score,0.10426492266829447
+withdrawal,sum_click_pct_in_pres,0.07578868853960923
+withdrawal,sum_url,0.07289498496174884
+withdrawal,sum_quiz,0.07018263774129242
+withdrawal,last2_mean_score,0.0642729804647055
+withdrawal,trend_forumng,0.06292227473849608

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data_oulad/
+results/
+models/
+paper/figures/
+paper/tables/
+code/oulad_meta.pkl
+code/oulad_tensors.npz
+*.zip
+*.aux
+*.log
+*.synctex.gz
+diagrams/*.pdf

@@ -1,0 +1,1625 @@
+target,task,feature,mean_abs_shap
+AAA,success,sum_dataplus,0.10796650171178984
+AAA,success,sum_dualpane,0.015688209212372246
+AAA,success,sum_externalquiz,0.0051495672641839
+AAA,success,sum_folder,0.0
+AAA,success,sum_forumng,0.03176144360486969
+AAA,success,sum_glossary,0.002739320937740143
+AAA,success,sum_homepage,0.040887493335636044
+AAA,success,sum_htmlactivity,0.0
+AAA,success,sum_oucollaborate,0.004279504487116973
+AAA,success,sum_oucontent,0.08820348129101932
+AAA,success,sum_ouelluminate,0.006528572972362726
+AAA,success,sum_ouwiki,0.008067675243110537
+AAA,success,sum_page,0.02400681072939017
+AAA,success,sum_questionnaire,0.005821628291581487
+AAA,success,sum_quiz,0.1534260911077615
+AAA,success,sum_repeatactivity,0.0
+AAA,success,sum_resource,0.018803222247723923
+AAA,success,sum_sharedsubpage,0.0
+AAA,success,sum_subpage,0.011255319482423008
+AAA,success,sum_url,0.056519558759360364
+AAA,success,sum_n_submit,0.055236179654070884
+AAA,success,sum_mean_score,0.6314006161460354
+AAA,success,sum_n_late,0.17551595349435423
+AAA,success,sum_click_pct_in_pres,0.2654597484612291
+AAA,success,last2_dataplus,0.0
+AAA,success,last2_dualpane,0.0026492300501568186
+AAA,success,last2_externalquiz,0.0002822573656009453
+AAA,success,last2_folder,0.0
+AAA,success,last2_forumng,0.05303861209800473
+AAA,success,last2_glossary,0.0005290989966280496
+AAA,success,last2_homepage,0.12185462884198002
+AAA,success,last2_htmlactivity,0.0
+AAA,success,last2_oucollaborate,0.0005981874777568364
+AAA,success,last2_oucontent,0.016962218064056758
+AAA,success,last2_ouelluminate,5.6062999786396575e-05
+AAA,success,last2_ouwiki,0.0006852639924410229
+AAA,success,last2_page,0.0
+AAA,success,last2_questionnaire,0.00027416916060418815
+AAA,success,last2_quiz,0.002821081281033076
+AAA,success,last2_repeatactivity,0.0
+AAA,success,last2_resource,0.005928292713663465
+AAA,success,last2_sharedsubpage,0.0
+AAA,success,last2_subpage,0.004051301247060739
+AAA,success,last2_url,0.00880696288173465
+AAA,success,last2_n_submit,0.01651372272345737
+AAA,success,last2_mean_score,0.05396059073117002
+AAA,success,last2_n_late,0.0012344668210191136
+AAA,success,last2_click_pct_in_pres,0.19767046891233078
+AAA,success,trend_dataplus,0.0
+AAA,success,trend_dualpane,0.006031586359468502
+AAA,success,trend_externalquiz,0.023608441857372944
+AAA,success,trend_folder,0.0
+AAA,success,trend_forumng,0.027239235788495755
+AAA,success,trend_glossary,0.0026489798109528393
+AAA,success,trend_homepage,0.05129877352392183
+AAA,success,trend_htmlactivity,0.0
+AAA,success,trend_oucollaborate,0.013891981714201798
+AAA,success,trend_oucontent,0.0700817054705748
+AAA,success,trend_ouelluminate,0.00393471852493676
+AAA,success,trend_ouwiki,0.009109928091701988
+AAA,success,trend_page,0.08071773297426525
+AAA,success,trend_questionnaire,0.0035045812935397234
+AAA,success,trend_quiz,0.004561593966186603
+AAA,success,trend_repeatactivity,0.0
+AAA,success,trend_resource,0.051607239203258916
+AAA,success,trend_sharedsubpage,0.0008578028501742655
+AAA,success,trend_subpage,0.03375629849567286
+AAA,success,trend_url,0.1017298999749206
+AAA,success,trend_n_submit,0.0187352557554854
+AAA,success,trend_mean_score,0.04763660439070901
+AAA,success,trend_n_late,0.013720657134945809
+AAA,success,trend_click_pct_in_pres,0.017385674499224537
+AAA,success,n_active_weeks,0.04798805134435943
+AAA,success,last_active_week,0.10379893754326758
+AAA,success,click_slope,0.036345542338900104
+AAA,success,num_of_prev_attempts,0.03338457300378872
+AAA,success,studied_credits,0.04282088599388026
+AAA,success,date_registration,0.024353259728570876
+AAA,success,module_presentation_length,0.16173556762091057
+AAA,success,reg_missing,0.0
+AAA,success,gender_F,0.011612104304526737
+AAA,success,gender_M,0.0036464918445963217
+AAA,success,region_East Anglian Region,0.0004343409786757515
+AAA,success,region_East Midlands Region,0.0019971774075498946
+AAA,success,region_Ireland,0.0
+AAA,success,region_London Region,0.0004739405966525744
+AAA,success,region_North Region,0.0025695754342144757
+AAA,success,region_North Western Region,0.012265783366603993
+AAA,success,region_Scotland,0.011778546316872137
+AAA,success,region_South East Region,0.012550515554779965
+AAA,success,region_South Region,0.017063603078725776
+AAA,success,region_South West Region,0.02225518510581947
+AAA,success,region_Wales,0.006910065474859077
+AAA,success,region_West Midlands Region,0.0007581509739250185
+AAA,success,region_Yorkshire Region,0.0007082067694397383
+AAA,success,highest_education_A Level or Equivalent,0.017842078277941528
+AAA,success,highest_education_HE Qualification,0.009195364053121073
+AAA,success,highest_education_Lower Than A Level,0.18286874293044572
+AAA,success,highest_education_No Formal quals,0.003033158758346665
+AAA,success,highest_education_Post Graduate Qualification,0.0005337543168821245
+AAA,success,imd_band_0-10%,0.026357781511356194
+AAA,success,imd_band_10-20,0.022906711646272202
+AAA,success,imd_band_20-30%,0.0005987738907000607
+AAA,success,imd_band_30-40%,0.00040447477654649084
+AAA,success,imd_band_40-50%,0.0012687345114690738
+AAA,success,imd_band_50-60%,0.0006000225858061658
+AAA,success,imd_band_60-70%,0.014497835718650782
+AAA,success,imd_band_70-80%,0.0025625046557536204
+AAA,success,imd_band_80-90%,0.013009952081424116
+AAA,success,imd_band_90-100%,0.029826141262273436
+AAA,success,imd_band_NA,0.02535665097707033
+AAA,success,age_band_0-35,0.08916511180975449
+AAA,success,age_band_35-55,0.013655216775373149
+AAA,success,age_band_55<=,0.0
+AAA,success,disability_N,0.0010182743570721971
+AAA,success,disability_Y,0.00021220621228085947
+AAA,withdrawal,sum_dataplus,0.0999686485053589
+AAA,withdrawal,sum_dualpane,0.024521350641446102
+AAA,withdrawal,sum_externalquiz,0.009027465045672515
+AAA,withdrawal,sum_folder,0.0
+AAA,withdrawal,sum_forumng,0.031892002025420856
+AAA,withdrawal,sum_glossary,0.003892947962756045
+AAA,withdrawal,sum_homepage,0.024812755119820097
+AAA,withdrawal,sum_htmlactivity,0.0
+AAA,withdrawal,sum_oucollaborate,0.003730198224616714
+AAA,withdrawal,sum_oucontent,0.060315565074351415
+AAA,withdrawal,sum_ouelluminate,0.00229772861749708
+AAA,withdrawal,sum_ouwiki,0.07778501585041352
+AAA,withdrawal,sum_page,0.008711520160543725
+AAA,withdrawal,sum_questionnaire,0.0014729684829775797
+AAA,withdrawal,sum_quiz,0.08811719513908135
+AAA,withdrawal,sum_repeatactivity,0.0
+AAA,withdrawal,sum_resource,0.025787372646499173
+AAA,withdrawal,sum_sharedsubpage,0.00038008487365308416
+AAA,withdrawal,sum_subpage,0.030594767091557257
+AAA,withdrawal,sum_url,0.07549605810483462
+AAA,withdrawal,sum_n_submit,0.011613919639042248
+AAA,withdrawal,sum_mean_score,0.29226634630623166
+AAA,withdrawal,sum_n_late,0.10051512138985348
+AAA,withdrawal,sum_click_pct_in_pres,0.07067912493751977
+AAA,withdrawal,last2_dataplus,0.0
+AAA,withdrawal,last2_dualpane,0.0010806403116411297
+AAA,withdrawal,last2_externalquiz,0.0009708542372157925
+AAA,withdrawal,last2_folder,0.0
+AAA,withdrawal,last2_forumng,0.059056870891153954
+AAA,withdrawal,last2_glossary,0.00015607967148269035
+AAA,withdrawal,last2_homepage,0.019105417307206062
+AAA,withdrawal,last2_htmlactivity,0.0
+AAA,withdrawal,last2_oucollaborate,0.002177673324795965
+AAA,withdrawal,last2_oucontent,0.021204700171914486
+AAA,withdrawal,last2_ouelluminate,0.0009827894391673609
+AAA,withdrawal,last2_ouwiki,0.0025506226305585444
+AAA,withdrawal,last2_page,0.0004698220481540105
+AAA,withdrawal,last2_questionnaire,0.0038039509613595687
+AAA,withdrawal,last2_quiz,0.02254631751995407
+AAA,withdrawal,last2_repeatactivity,0.0
+AAA,withdrawal,last2_resource,0.0037841844719688415
+AAA,withdrawal,last2_sharedsubpage,0.0
+AAA,withdrawal,last2_subpage,0.00938010392248938
+AAA,withdrawal,last2_url,0.02683176985947996
+AAA,withdrawal,last2_n_submit,0.00034682346901262947
+AAA,withdrawal,last2_mean_score,0.040752519465892575
+AAA,withdrawal,last2_n_late,0.020934434203896662
+AAA,withdrawal,last2_click_pct_in_pres,0.13811809818580922
+AAA,withdrawal,trend_dataplus,0.0
+AAA,withdrawal,trend_dualpane,0.0020038174397082062
+AAA,withdrawal,trend_externalquiz,0.008094362169084763
+AAA,withdrawal,trend_folder,0.0
+AAA,withdrawal,trend_forumng,0.07139971976124945
+AAA,withdrawal,trend_glossary,0.0057135856149836736
+AAA,withdrawal,trend_homepage,0.029247782843397428
+AAA,withdrawal,trend_htmlactivity,0.0
+AAA,withdrawal,trend_oucollaborate,0.01106512730312543
+AAA,withdrawal,trend_oucontent,0.024777522182123684
+AAA,withdrawal,trend_ouelluminate,0.0009783943592162746
+AAA,withdrawal,trend_ouwiki,0.006036795688327757
+AAA,withdrawal,trend_page,0.02230370236544221
+AAA,withdrawal,trend_questionnaire,0.009816834935206766
+AAA,withdrawal,trend_quiz,0.02573619549028549
+AAA,withdrawal,trend_repeatactivity,0.0
+AAA,withdrawal,trend_resource,0.015883443765486522
+AAA,withdrawal,trend_sharedsubpage,0.0
+AAA,withdrawal,trend_subpage,0.03374588402980982
+AAA,withdrawal,trend_url,0.018030255484181894
+AAA,withdrawal,trend_n_submit,0.021292116224059944
+AAA,withdrawal,trend_mean_score,0.11637359995700178
+AAA,withdrawal,trend_n_late,0.001983794799292527
+AAA,withdrawal,trend_click_pct_in_pres,0.025342123573235592
+AAA,withdrawal,n_active_weeks,0.01979028158441761
+AAA,withdrawal,last_active_week,0.020016020615645023
+AAA,withdrawal,click_slope,0.02116850085128399
+AAA,withdrawal,num_of_prev_attempts,0.014369511495217167
+AAA,withdrawal,studied_credits,0.07276919814926613
+AAA,withdrawal,date_registration,0.03394102089573079
+AAA,withdrawal,module_presentation_length,0.08060176154307028
+AAA,withdrawal,reg_missing,0.0
+AAA,withdrawal,gender_F,0.023313853706433962
+AAA,withdrawal,gender_M,0.0029908307087481486
+AAA,withdrawal,region_East Anglian Region,0.0012562051557537077
+AAA,withdrawal,region_East Midlands Region,0.009977195937447563
+AAA,withdrawal,region_Ireland,0.0013998099786351572
+AAA,withdrawal,region_London Region,0.003234923861433388
+AAA,withdrawal,region_North Region,0.0005113233345707207
+AAA,withdrawal,region_North Western Region,0.0010887922593734722
+AAA,withdrawal,region_Scotland,0.00044174558177039093
+AAA,withdrawal,region_South East Region,0.000675846961265236
+AAA,withdrawal,region_South Region,0.004739330570940398
+AAA,withdrawal,region_South West Region,0.0011118168565127295
+AAA,withdrawal,region_Wales,0.0012449366359215358
+AAA,withdrawal,region_West Midlands Region,0.00754711341728906
+AAA,withdrawal,region_Yorkshire Region,0.003710349852695414
+AAA,withdrawal,highest_education_A Level or Equivalent,0.02112984542858394
+AAA,withdrawal,highest_education_HE Qualification,0.0014653038680121453
+AAA,withdrawal,highest_education_Lower Than A Level,0.0396683361658137
+AAA,withdrawal,highest_education_No Formal quals,0.0011053743724632867
+AAA,withdrawal,highest_education_Post Graduate Qualification,0.0
+AAA,withdrawal,imd_band_0-10%,0.0038074128252819075
+AAA,withdrawal,imd_band_10-20,0.00021831044420436753
+AAA,withdrawal,imd_band_20-30%,0.019226305986598732
+AAA,withdrawal,imd_band_30-40%,0.0004923142848966858
+AAA,withdrawal,imd_band_40-50%,0.0012411376605794098
+AAA,withdrawal,imd_band_50-60%,0.015476997901606707
+AAA,withdrawal,imd_band_60-70%,0.004907552120427958
+AAA,withdrawal,imd_band_70-80%,0.001762371410087573
+AAA,withdrawal,imd_band_80-90%,0.004395717811364856
+AAA,withdrawal,imd_band_90-100%,0.004724596239572852
+AAA,withdrawal,imd_band_NA,0.0070759407694191345
+AAA,withdrawal,age_band_0-35,0.0007363366137027095
+AAA,withdrawal,age_band_35-55,0.005312156928992607
+AAA,withdrawal,age_band_55<=,0.0019566644085604328
+AAA,withdrawal,disability_N,0.03859983125903854
+AAA,withdrawal,disability_Y,0.009257509092126283
+BBB,success,sum_dataplus,0.002664116514711042
+BBB,success,sum_dualpane,0.01692069685214211
+BBB,success,sum_externalquiz,0.007767160976087584
+BBB,success,sum_folder,0.0
+BBB,success,sum_forumng,0.02698478056611052
+BBB,success,sum_glossary,0.0031622744875132902
+BBB,success,sum_homepage,0.0345469188849541
+BBB,success,sum_htmlactivity,0.0
+BBB,success,sum_oucollaborate,0.006124755171296341
+BBB,success,sum_oucontent,0.03766749685248363
+BBB,success,sum_ouelluminate,0.0074592698161351865
+BBB,success,sum_ouwiki,0.009555689326708312
+BBB,success,sum_page,0.016359767038268337
+BBB,success,sum_questionnaire,0.0053651711210547836
+BBB,success,sum_quiz,0.10847993102585586
+BBB,success,sum_repeatactivity,0.0
+BBB,success,sum_resource,0.016511419028080506
+BBB,success,sum_sharedsubpage,0.0
+BBB,success,sum_subpage,0.01794566999234093
+BBB,success,sum_url,0.0596559561416388
+BBB,success,sum_n_submit,0.06349004541072926
+BBB,success,sum_mean_score,0.8994703120660645
+BBB,success,sum_n_late,0.18012641351385963
+BBB,success,sum_click_pct_in_pres,0.23728087339824638
+BBB,success,last2_dataplus,0.0
+BBB,success,last2_dualpane,0.002007017730280324
+BBB,success,last2_externalquiz,0.00017619232951494878
+BBB,success,last2_folder,0.0
+BBB,success,last2_forumng,0.04160934697600073
+BBB,success,last2_glossary,0.0008278144684413066
+BBB,success,last2_homepage,0.13450575255579902
+BBB,success,last2_htmlactivity,0.0
+BBB,success,last2_oucollaborate,0.0025983967252690304
+BBB,success,last2_oucontent,0.017494992749434335
+BBB,success,last2_ouelluminate,0.0001308120193853455
+BBB,success,last2_ouwiki,0.0007486997778406371
+BBB,success,last2_page,0.00039200333138574933
+BBB,success,last2_questionnaire,0.00013341319567254648
+BBB,success,last2_quiz,0.008307989144630712
+BBB,success,last2_repeatactivity,0.0
+BBB,success,last2_resource,0.010076155012289157
+BBB,success,last2_sharedsubpage,0.0
+BBB,success,last2_subpage,0.0031079319963876278
+BBB,success,last2_url,0.003942333126663084
+BBB,success,last2_n_submit,0.008011429061734241
+BBB,success,last2_mean_score,0.06156647854003066
+BBB,success,last2_n_late,0.00024387970048899186
+BBB,success,last2_click_pct_in_pres,0.21418538946594134
+BBB,success,trend_dataplus,0.0
+BBB,success,trend_dualpane,0.00471970694106006
+BBB,success,trend_externalquiz,0.020422513909700058
+BBB,success,trend_folder,0.0
+BBB,success,trend_forumng,0.018782244023547355
+BBB,success,trend_glossary,0.005626124869220562
+BBB,success,trend_homepage,0.054153548484465526
+BBB,success,trend_htmlactivity,0.0
+BBB,success,trend_oucollaborate,0.026121322396910934
+BBB,success,trend_oucontent,0.03103771787964267
+BBB,success,trend_ouelluminate,0.003938018042314135
+BBB,success,trend_ouwiki,0.006465428713941981
+BBB,success,trend_page,0.07429346454709627
+BBB,success,trend_questionnaire,0.004307095465728042
+BBB,success,trend_quiz,0.007371164193356494
+BBB,success,trend_repeatactivity,0.0
+BBB,success,trend_resource,0.024365783285133336
+BBB,success,trend_sharedsubpage,0.0007438320472803828
+BBB,success,trend_subpage,0.026348289291859874
+BBB,success,trend_url,0.0812326422120971
+BBB,success,trend_n_submit,0.020529693035532714
+BBB,success,trend_mean_score,0.09465183605150213
+BBB,success,trend_n_late,0.010062261408493407
+BBB,success,trend_click_pct_in_pres,0.019460325000879564
+BBB,success,n_active_weeks,0.07304607535086487
+BBB,success,last_active_week,0.10583725357681986
+BBB,success,click_slope,0.04423993822131643
+BBB,success,num_of_prev_attempts,0.03693875131922896
+BBB,success,studied_credits,0.05327337239936754
+BBB,success,date_registration,0.033801021433665465
+BBB,success,module_presentation_length,0.07434583515226036
+BBB,success,reg_missing,0.0
+BBB,success,gender_F,0.0083912796270178
+BBB,success,gender_M,0.0023401928629229376
+BBB,success,region_East Anglian Region,0.00025635250929046966
+BBB,success,region_East Midlands Region,0.0007384682257275574
+BBB,success,region_Ireland,0.0015253690914685644
+BBB,success,region_London Region,0.000854114584211544
+BBB,success,region_North Region,0.00025780127200922053
+BBB,success,region_North Western Region,0.019228619747684313
+BBB,success,region_Scotland,0.02065908072978679
+BBB,success,region_South East Region,0.006204027922686239
+BBB,success,region_South Region,0.016488929719042825
+BBB,success,region_South West Region,0.02180839407272063
+BBB,success,region_Wales,0.01257097695361809
+BBB,success,region_West Midlands Region,0.00044949129078370343
+BBB,success,region_Yorkshire Region,0.0
+BBB,success,highest_education_A Level or Equivalent,0.021347118704484927
+BBB,success,highest_education_HE Qualification,0.0027826102903848265
+BBB,success,highest_education_Lower Than A Level,0.20113711518527969
+BBB,success,highest_education_No Formal quals,0.004713419005030048
+BBB,success,highest_education_Post Graduate Qualification,0.0006880037060190331
+BBB,success,imd_band_0-10%,0.03723787022262588
+BBB,success,imd_band_10-20,0.024133622614475256
+BBB,success,imd_band_20-30%,0.0006358894222922503
+BBB,success,imd_band_30-40%,0.0004885526627778257
+BBB,success,imd_band_40-50%,0.00034835244487613887
+BBB,success,imd_band_50-60%,0.001081169965493804
+BBB,success,imd_band_60-70%,0.017206003632587664
+BBB,success,imd_band_70-80%,0.002000415928612044
+BBB,success,imd_band_80-90%,0.01412901224671004
+BBB,success,imd_band_90-100%,0.02376957697122478
+BBB,success,imd_band_NA,0.021923072326611427
+BBB,success,age_band_0-35,0.07041327865820118
+BBB,success,age_band_35-55,0.01155899515893071
+BBB,success,age_band_55<=,0.0
+BBB,success,disability_N,0.00026352803472261006
+BBB,success,disability_Y,0.0
+BBB,withdrawal,sum_dataplus,0.0
+BBB,withdrawal,sum_dualpane,0.037048614870062106
+BBB,withdrawal,sum_externalquiz,0.019244655763890162
+BBB,withdrawal,sum_folder,0.0
+BBB,withdrawal,sum_forumng,0.024084149400218427
+BBB,withdrawal,sum_glossary,0.007903305123953952
+BBB,withdrawal,sum_homepage,0.03017309396871757
+BBB,withdrawal,sum_htmlactivity,0.0
+BBB,withdrawal,sum_oucollaborate,0.005635149289897893
+BBB,withdrawal,sum_oucontent,0.01568205828058523
+BBB,withdrawal,sum_ouelluminate,0.0025748994431120547
+BBB,withdrawal,sum_ouwiki,0.04759261783367768
+BBB,withdrawal,sum_page,0.003499866128795026
+BBB,withdrawal,sum_questionnaire,0.0006937381778494299
+BBB,withdrawal,sum_quiz,0.0814964440502443
+BBB,withdrawal,sum_repeatactivity,0.0
+BBB,withdrawal,sum_resource,0.03815860153440801
+BBB,withdrawal,sum_sharedsubpage,0.0005051180115401378
+BBB,withdrawal,sum_subpage,0.02283230810540641
+BBB,withdrawal,sum_url,0.0749721186986426
+BBB,withdrawal,sum_n_submit,0.020328958153933083
+BBB,withdrawal,sum_mean_score,0.3653988019744029
+BBB,withdrawal,sum_n_late,0.09493083681775549
+BBB,withdrawal,sum_click_pct_in_pres,0.08435379662486123
+BBB,withdrawal,last2_dataplus,0.0
+BBB,withdrawal,last2_dualpane,0.0020892843872819173
+BBB,withdrawal,last2_externalquiz,0.0015284762219010758
+BBB,withdrawal,last2_folder,0.0
+BBB,withdrawal,last2_forumng,0.03577488532884422
+BBB,withdrawal,last2_glossary,0.0014649447790617445
+BBB,withdrawal,last2_homepage,0.01698561594014277
+BBB,withdrawal,last2_htmlactivity,0.0
+BBB,withdrawal,last2_oucollaborate,0.011494692526856386
+BBB,withdrawal,last2_oucontent,0.025810211698968244
+BBB,withdrawal,last2_ouelluminate,0.00018873573424826713
+BBB,withdrawal,last2_ouwiki,0.0026723118382036585
+BBB,withdrawal,last2_page,0.00042237521260520797
+BBB,withdrawal,last2_questionnaire,0.0030096686312250766
+BBB,withdrawal,last2_quiz,0.025843283275834458
+BBB,withdrawal,last2_repeatactivity,0.0
+BBB,withdrawal,last2_resource,0.010512017318905732
+BBB,withdrawal,last2_sharedsubpage,0.0
+BBB,withdrawal,last2_subpage,0.003561405709556995
+BBB,withdrawal,last2_url,0.013335275996859379
+BBB,withdrawal,last2_n_submit,0.0
+BBB,withdrawal,last2_mean_score,0.040116770770288857
+BBB,withdrawal,last2_n_late,0.01322395581596047
+BBB,withdrawal,last2_click_pct_in_pres,0.12026657852623603
+BBB,withdrawal,trend_dataplus,0.0
+BBB,withdrawal,trend_dualpane,0.005170678962031065
+BBB,withdrawal,trend_externalquiz,0.010954766168153923
+BBB,withdrawal,trend_folder,0.0
+BBB,withdrawal,trend_forumng,0.037826686273971274
+BBB,withdrawal,trend_glossary,0.007830482761916138
+BBB,withdrawal,trend_homepage,0.03469997513983659
+BBB,withdrawal,trend_htmlactivity,0.0
+BBB,withdrawal,trend_oucollaborate,0.009608332470429783
+BBB,withdrawal,trend_oucontent,0.040787982138967845
+BBB,withdrawal,trend_ouelluminate,0.0006801377515393716
+BBB,withdrawal,trend_ouwiki,0.009889972364084242
+BBB,withdrawal,trend_page,0.026237960335898824
+BBB,withdrawal,trend_questionnaire,0.008413858558301335
+BBB,withdrawal,trend_quiz,0.01853102860091551
+BBB,withdrawal,trend_repeatactivity,0.0
+BBB,withdrawal,trend_resource,0.025815078616004013
+BBB,withdrawal,trend_sharedsubpage,0.0
+BBB,withdrawal,trend_subpage,0.03383938588906511
+BBB,withdrawal,trend_url,0.021742046370310467
+BBB,withdrawal,trend_n_submit,0.024564932958072005
+BBB,withdrawal,trend_mean_score,0.13080327570070324
+BBB,withdrawal,trend_n_late,0.0069246477037295615
+BBB,withdrawal,trend_click_pct_in_pres,0.022993534985120846
+BBB,withdrawal,n_active_weeks,0.01509421303364265
+BBB,withdrawal,last_active_week,0.02938350064132412
+BBB,withdrawal,click_slope,0.020124677782483284
+BBB,withdrawal,num_of_prev_attempts,0.020335164559223233
+BBB,withdrawal,studied_credits,0.07814935896652933
+BBB,withdrawal,date_registration,0.038700087241009526
+BBB,withdrawal,module_presentation_length,0.017887619335441605
+BBB,withdrawal,reg_missing,0.0
+BBB,withdrawal,gender_F,0.024973704932145385
+BBB,withdrawal,gender_M,0.003558496581760938
+BBB,withdrawal,region_East Anglian Region,0.003526920827884218
+BBB,withdrawal,region_East Midlands Region,0.010002650628220788
+BBB,withdrawal,region_Ireland,0.0011177868705096745
+BBB,withdrawal,region_London Region,0.008513869116628794
+BBB,withdrawal,region_North Region,0.0002451300505095922
+BBB,withdrawal,region_North Western Region,0.0011900534083009785
+BBB,withdrawal,region_Scotland,0.0007484692934864517
+BBB,withdrawal,region_South East Region,0.00015368865908753503
+BBB,withdrawal,region_South Region,0.000755099277656239
+BBB,withdrawal,region_South West Region,0.00022795671025973367
+BBB,withdrawal,region_Wales,0.0034425003271771623
+BBB,withdrawal,region_West Midlands Region,0.005727363680989619
+BBB,withdrawal,region_Yorkshire Region,0.00015121117263089547
+BBB,withdrawal,highest_education_A Level or Equivalent,0.036934246041891446
+BBB,withdrawal,highest_education_HE Qualification,0.0016118914825780527
+BBB,withdrawal,highest_education_Lower Than A Level,0.04137731278143789
+BBB,withdrawal,highest_education_No Formal quals,0.000973253298719344
+BBB,withdrawal,highest_education_Post Graduate Qualification,0.0
+BBB,withdrawal,imd_band_0-10%,0.0052099209366056436
+BBB,withdrawal,imd_band_10-20,0.0003392873394181562
+BBB,withdrawal,imd_band_20-30%,0.01978105208440944
+BBB,withdrawal,imd_band_30-40%,0.003884634308006029
+BBB,withdrawal,imd_band_40-50%,0.0002477335384041875
+BBB,withdrawal,imd_band_50-60%,0.01581588587704764
+BBB,withdrawal,imd_band_60-70%,0.0057812935313351285
+BBB,withdrawal,imd_band_70-80%,0.001153374279040402
+BBB,withdrawal,imd_band_80-90%,0.0002156260939045732
+BBB,withdrawal,imd_band_90-100%,0.004113961485155672
+BBB,withdrawal,imd_band_NA,0.006940652816182696
+BBB,withdrawal,age_band_0-35,0.006973322264337032
+BBB,withdrawal,age_band_35-55,0.008296655030645141
+BBB,withdrawal,age_band_55<=,0.00015992702615358093
+BBB,withdrawal,disability_N,0.033132200544246725
+BBB,withdrawal,disability_Y,0.01055954485368195
+CCC,success,sum_dataplus,0.002926295136293994
+CCC,success,sum_dualpane,0.023528826309847598
+CCC,success,sum_externalquiz,0.003369901865641193
+CCC,success,sum_folder,0.0
+CCC,success,sum_forumng,0.0319046050475682
+CCC,success,sum_glossary,0.0024271592995923413
+CCC,success,sum_homepage,0.041208008100906
+CCC,success,sum_htmlactivity,0.0
+CCC,success,sum_oucollaborate,0.006592818602738615
+CCC,success,sum_oucontent,0.036415559598456694
+CCC,success,sum_ouelluminate,0.005276405185755766
+CCC,success,sum_ouwiki,0.008505693395611098
+CCC,success,sum_page,0.014235089528733742
+CCC,success,sum_questionnaire,0.006126297419446898
+CCC,success,sum_quiz,0.15334921542798297
+CCC,success,sum_repeatactivity,0.0
+CCC,success,sum_resource,0.025147488861061176
+CCC,success,sum_sharedsubpage,0.0002410861815240735
+CCC,success,sum_subpage,0.027679148357626738
+CCC,success,sum_url,0.03696568492909889
+CCC,success,sum_n_submit,0.03765480506059859
+CCC,success,sum_mean_score,0.8551155317169072
+CCC,success,sum_n_late,0.24853411441912193
+CCC,success,sum_click_pct_in_pres,0.2281332429462682
+CCC,success,last2_dataplus,0.0
+CCC,success,last2_dualpane,0.00036545529786883376
+CCC,success,last2_externalquiz,0.00016667374606222661
+CCC,success,last2_folder,0.0
+CCC,success,last2_forumng,0.05658761766549228
+CCC,success,last2_glossary,0.0004897107534120614
+CCC,success,last2_homepage,0.105862008511062
+CCC,success,last2_htmlactivity,0.0
+CCC,success,last2_oucollaborate,0.003235976500799594
+CCC,success,last2_oucontent,0.013085775056764724
+CCC,success,last2_ouelluminate,9.298133850052483e-05
+CCC,success,last2_ouwiki,0.0004225062860780085
+CCC,success,last2_page,0.0
+CCC,success,last2_questionnaire,0.0002538024972238332
+CCC,success,last2_quiz,0.05392707281563685
+CCC,success,last2_repeatactivity,0.0
+CCC,success,last2_resource,0.01331191715050399
+CCC,success,last2_sharedsubpage,0.0
+CCC,success,last2_subpage,0.008100395841576936
+CCC,success,last2_url,0.010987861500658119
+CCC,success,last2_n_submit,0.009396846246625777
+CCC,success,last2_mean_score,0.15388007844038953
+CCC,success,last2_n_late,0.002531632004466235
+CCC,success,last2_click_pct_in_pres,0.2281274501307676
+CCC,success,trend_dataplus,0.0
+CCC,success,trend_dualpane,0.004520296549303929
+CCC,success,trend_externalquiz,0.014906611515748588
+CCC,success,trend_folder,0.0
+CCC,success,trend_forumng,0.016899266855438085
+CCC,success,trend_glossary,0.0017639414364092776
+CCC,success,trend_homepage,0.03546743710827122
+CCC,success,trend_htmlactivity,0.0
+CCC,success,trend_oucollaborate,0.0213421073952741
+CCC,success,trend_oucontent,0.021477029964786253
+CCC,success,trend_ouelluminate,0.0029104114948821738
+CCC,success,trend_ouwiki,0.004924973807116655
+CCC,success,trend_page,0.06730051020021899
+CCC,success,trend_questionnaire,0.0028857327007830906
+CCC,success,trend_quiz,0.019463232380551438
+CCC,success,trend_repeatactivity,0.0
+CCC,success,trend_resource,0.03325616015320302
+CCC,success,trend_sharedsubpage,0.0009641163541204661
+CCC,success,trend_subpage,0.02405358259586731
+CCC,success,trend_url,0.05984768924738275
+CCC,success,trend_n_submit,0.014908566768786897
+CCC,success,trend_mean_score,0.05437771540519763
+CCC,success,trend_n_late,0.00920316666665545
+CCC,success,trend_click_pct_in_pres,0.017179063385483345
+CCC,success,n_active_weeks,0.053868668982077754
+CCC,success,last_active_week,0.0834552073990856
+CCC,success,click_slope,0.04430759009360931
+CCC,success,num_of_prev_attempts,0.05008918090861445
+CCC,success,studied_credits,0.02926818893021226
+CCC,success,date_registration,0.04141191120036823
+CCC,success,module_presentation_length,0.0807406154275575
+CCC,success,reg_missing,0.0
+CCC,success,gender_F,0.015494658402953257
+CCC,success,gender_M,0.003969925186611339
+CCC,success,region_East Anglian Region,0.0013651364724732264
+CCC,success,region_East Midlands Region,0.0011750808630069391
+CCC,success,region_Ireland,0.004253711631305737
+CCC,success,region_London Region,0.0013326673269061567
+CCC,success,region_North Region,0.00310324971803874
+CCC,success,region_North Western Region,0.017010465273040794
+CCC,success,region_Scotland,0.02736923337600055
+CCC,success,region_South East Region,0.013926494261056325
+CCC,success,region_South Region,0.012173001224559913
+CCC,success,region_South West Region,0.018895914739015945
+CCC,success,region_Wales,0.005441625090522676
+CCC,success,region_West Midlands Region,0.001166772520378365
+CCC,success,region_Yorkshire Region,0.0017912436756093882
+CCC,success,highest_education_A Level or Equivalent,0.010077009038877014
+CCC,success,highest_education_HE Qualification,0.004794153847421525
+CCC,success,highest_education_Lower Than A Level,0.19793921293403668
+CCC,success,highest_education_No Formal quals,0.003488639998215814
+CCC,success,highest_education_Post Graduate Qualification,0.001874603225624686
+CCC,success,imd_band_0-10%,0.03487724623978108
+CCC,success,imd_band_10-20,0.020933448232608485
+CCC,success,imd_band_20-30%,0.0001598688181797858
+CCC,success,imd_band_30-40%,0.0010299249487004888
+CCC,success,imd_band_40-50%,0.0015807035235397573
+CCC,success,imd_band_50-60%,0.0005163150644251043
+CCC,success,imd_band_60-70%,0.014093768218413556
+CCC,success,imd_band_70-80%,0.0
+CCC,success,imd_band_80-90%,0.012663712880218319
+CCC,success,imd_band_90-100%,0.02992301709617854
+CCC,success,imd_band_NA,0.04197113103547571
+CCC,success,age_band_0-35,0.08381009031638666
+CCC,success,age_band_35-55,0.006830289908476014
+CCC,success,age_band_55<=,0.0
+CCC,success,disability_N,0.0004129704589200512
+CCC,success,disability_Y,0.0006817674949575951
+CCC,withdrawal,sum_dataplus,0.0004196433069840597
+CCC,withdrawal,sum_dualpane,0.035125312850070416
+CCC,withdrawal,sum_externalquiz,0.01686390143876631
+CCC,withdrawal,sum_folder,0.0
+CCC,withdrawal,sum_forumng,0.027161300581032815
+CCC,withdrawal,sum_glossary,0.002773471112563006
+CCC,withdrawal,sum_homepage,0.0214531641047071
+CCC,withdrawal,sum_htmlactivity,0.0
+CCC,withdrawal,sum_oucollaborate,0.006108568772578596
+CCC,withdrawal,sum_oucontent,0.014818792985046623
+CCC,withdrawal,sum_ouelluminate,0.002321069935605646
+CCC,withdrawal,sum_ouwiki,0.04843856278271532
+CCC,withdrawal,sum_page,0.0032641076332483574
+CCC,withdrawal,sum_questionnaire,0.001718074523765902
+CCC,withdrawal,sum_quiz,0.09395882971157482
+CCC,withdrawal,sum_repeatactivity,0.0
+CCC,withdrawal,sum_resource,0.029448291534847862
+CCC,withdrawal,sum_sharedsubpage,0.0002488178997775906
+CCC,withdrawal,sum_subpage,0.029730931475736452
+CCC,withdrawal,sum_url,0.058768745828557095
+CCC,withdrawal,sum_n_submit,0.009439927567667726
+CCC,withdrawal,sum_mean_score,0.481411846214369
+CCC,withdrawal,sum_n_late,0.1736556803727224
+CCC,withdrawal,sum_click_pct_in_pres,0.06930563621029193
+CCC,withdrawal,last2_dataplus,0.0
+CCC,withdrawal,last2_dualpane,0.0017951933189950266
+CCC,withdrawal,last2_externalquiz,0.001113144155867693
+CCC,withdrawal,last2_folder,0.0
+CCC,withdrawal,last2_forumng,0.049316239417877286
+CCC,withdrawal,last2_glossary,0.0003552875862218458
+CCC,withdrawal,last2_homepage,0.04108112835106639
+CCC,withdrawal,last2_htmlactivity,0.0
+CCC,withdrawal,last2_oucollaborate,0.007503322037754711
+CCC,withdrawal,last2_oucontent,0.017046737246367932
+CCC,withdrawal,last2_ouelluminate,0.0001249194994510427
+CCC,withdrawal,last2_ouwiki,0.00397579548449485
+CCC,withdrawal,last2_page,0.0
+CCC,withdrawal,last2_questionnaire,0.003505090454763376
+CCC,withdrawal,last2_quiz,0.04991383626612472
+CCC,withdrawal,last2_repeatactivity,0.0
+CCC,withdrawal,last2_resource,0.01409371511667384
+CCC,withdrawal,last2_sharedsubpage,0.0
+CCC,withdrawal,last2_subpage,0.011013919620874042
+CCC,withdrawal,last2_url,0.013404218881932774
+CCC,withdrawal,last2_n_submit,0.0013308210354250605
+CCC,withdrawal,last2_mean_score,0.11869280004168842
+CCC,withdrawal,last2_n_late,0.012770779868940128
+CCC,withdrawal,last2_click_pct_in_pres,0.10867936854242934
+CCC,withdrawal,trend_dataplus,0.0
+CCC,withdrawal,trend_dualpane,0.003832610998590907
+CCC,withdrawal,trend_externalquiz,0.004015132055075738
+CCC,withdrawal,trend_folder,0.0
+CCC,withdrawal,trend_forumng,0.05395184853734824
+CCC,withdrawal,trend_glossary,0.0037869450202539096
+CCC,withdrawal,trend_homepage,0.03328723275832344
+CCC,withdrawal,trend_htmlactivity,0.0
+CCC,withdrawal,trend_oucollaborate,0.013014194634366975
+CCC,withdrawal,trend_oucontent,0.04835134832142019
+CCC,withdrawal,trend_ouelluminate,0.0011830647336629042
+CCC,withdrawal,trend_ouwiki,0.006549611946230348
+CCC,withdrawal,trend_page,0.02914191276585539
+CCC,withdrawal,trend_questionnaire,0.009581208604966166
+CCC,withdrawal,trend_quiz,0.037819747926487124
+CCC,withdrawal,trend_repeatactivity,0.0
+CCC,withdrawal,trend_resource,0.03807596352428228
+CCC,withdrawal,trend_sharedsubpage,0.0
+CCC,withdrawal,trend_subpage,0.03920405599908169
+CCC,withdrawal,trend_url,0.022076448804764455
+CCC,withdrawal,trend_n_submit,0.019392184472917885
+CCC,withdrawal,trend_mean_score,0.07847965726417169
+CCC,withdrawal,trend_n_late,0.00820918592131052
+CCC,withdrawal,trend_click_pct_in_pres,0.024953151846416
+CCC,withdrawal,n_active_weeks,0.015301972240235098
+CCC,withdrawal,last_active_week,0.02482242276299156
+CCC,withdrawal,click_slope,0.021438311143754423
+CCC,withdrawal,num_of_prev_attempts,0.01547184760595769
+CCC,withdrawal,studied_credits,0.12216431405740141
+CCC,withdrawal,date_registration,0.03898633235229449
+CCC,withdrawal,module_presentation_length,0.016789631634094523
+CCC,withdrawal,reg_missing,0.0
+CCC,withdrawal,gender_F,0.013321488862382417
+CCC,withdrawal,gender_M,0.0027809039504127658
+CCC,withdrawal,region_East Anglian Region,0.003920702063993505
+CCC,withdrawal,region_East Midlands Region,0.008251604885429436
+CCC,withdrawal,region_Ireland,0.0007582100383489111
+CCC,withdrawal,region_London Region,0.0018702240296328387
+CCC,withdrawal,region_North Region,0.0031580715474381583
+CCC,withdrawal,region_North Western Region,0.0018074894311384986
+CCC,withdrawal,region_Scotland,0.0026498363287100015
+CCC,withdrawal,region_South East Region,0.0017166813824506545
+CCC,withdrawal,region_South Region,0.002371180969581165
+CCC,withdrawal,region_South West Region,0.00047512668866022014
+CCC,withdrawal,region_Wales,0.0052178213971570755
+CCC,withdrawal,region_West Midlands Region,0.008812896392119414
+CCC,withdrawal,region_Yorkshire Region,0.0022719879871753125
+CCC,withdrawal,highest_education_A Level or Equivalent,0.018748621052766493
+CCC,withdrawal,highest_education_HE Qualification,0.0012849332643559955
+CCC,withdrawal,highest_education_Lower Than A Level,0.07702733051696228
+CCC,withdrawal,highest_education_No Formal quals,0.0023594003949100905
+CCC,withdrawal,highest_education_Post Graduate Qualification,0.0
+CCC,withdrawal,imd_band_0-10%,0.01394669134174106
+CCC,withdrawal,imd_band_10-20,0.0012629283457316635
+CCC,withdrawal,imd_band_20-30%,0.014233060274805922
+CCC,withdrawal,imd_band_30-40%,0.00028854439189070306
+CCC,withdrawal,imd_band_40-50%,0.00077806594869844
+CCC,withdrawal,imd_band_50-60%,0.01579912113615474
+CCC,withdrawal,imd_band_60-70%,0.008329054199900569
+CCC,withdrawal,imd_band_70-80%,0.00140483914969526
+CCC,withdrawal,imd_band_80-90%,0.0009522408416374164
+CCC,withdrawal,imd_band_90-100%,0.004988088716911596
+CCC,withdrawal,imd_band_NA,0.022929849285307956
+CCC,withdrawal,age_band_0-35,0.002830954880188811
+CCC,withdrawal,age_band_35-55,0.006752575864550595
+CCC,withdrawal,age_band_55<=,0.0
+CCC,withdrawal,disability_N,0.028886480084452035
+CCC,withdrawal,disability_Y,0.004250863857525824
+DDD,success,sum_dataplus,0.001772275046284924
+DDD,success,sum_dualpane,0.014752936492265346
+DDD,success,sum_externalquiz,0.02096828354230538
+DDD,success,sum_folder,0.0
+DDD,success,sum_forumng,0.025059589419982865
+DDD,success,sum_glossary,0.0100983675531171
+DDD,success,sum_homepage,0.03475004234541916
+DDD,success,sum_htmlactivity,0.0
+DDD,success,sum_oucollaborate,0.019577299571986038
+DDD,success,sum_oucontent,0.03081744261098219
+DDD,success,sum_ouelluminate,0.0067484908171395915
+DDD,success,sum_ouwiki,0.012763577946779165
+DDD,success,sum_page,0.016290657022257977
+DDD,success,sum_questionnaire,0.006076033865092256
+DDD,success,sum_quiz,0.08324571412042801
+DDD,success,sum_repeatactivity,0.0
+DDD,success,sum_resource,0.020509555285807387
+DDD,success,sum_sharedsubpage,0.00016845313733335657
+DDD,success,sum_subpage,0.017949088335473096
+DDD,success,sum_url,0.0356416954114805
+DDD,success,sum_n_submit,0.0420816141354863
+DDD,success,sum_mean_score,0.8560374277920634
+DDD,success,sum_n_late,0.1478533721253133
+DDD,success,sum_click_pct_in_pres,0.25478421417926933
+DDD,success,last2_dataplus,0.0
+DDD,success,last2_dualpane,0.0029744941251484474
+DDD,success,last2_externalquiz,0.0015009155349678862
+DDD,success,last2_folder,0.0
+DDD,success,last2_forumng,0.04487827769490133
+DDD,success,last2_glossary,0.0014900472032257134
+DDD,success,last2_homepage,0.0974544890532685
+DDD,success,last2_htmlactivity,0.0
+DDD,success,last2_oucollaborate,0.00266631990801171
+DDD,success,last2_oucontent,0.011744938544305934
+DDD,success,last2_ouelluminate,0.0002712705901701807
+DDD,success,last2_ouwiki,0.0005281325126303354
+DDD,success,last2_page,0.0
+DDD,success,last2_questionnaire,6.007754241143165e-05
+DDD,success,last2_quiz,0.0035405123070584026
+DDD,success,last2_repeatactivity,0.0
+DDD,success,last2_resource,0.016959720583643288
+DDD,success,last2_sharedsubpage,0.0
+DDD,success,last2_subpage,0.009595666412589788
+DDD,success,last2_url,0.011396507611512386
+DDD,success,last2_n_submit,0.012384326760677753
+DDD,success,last2_mean_score,0.10721268743049943
+DDD,success,last2_n_late,0.006531149062014363
+DDD,success,last2_click_pct_in_pres,0.16925919562178623
+DDD,success,trend_dataplus,0.0
+DDD,success,trend_dualpane,0.004746916722582628
+DDD,success,trend_externalquiz,0.04609236362198533
+DDD,success,trend_folder,0.0
+DDD,success,trend_forumng,0.024236332741809433
+DDD,success,trend_glossary,0.017539732962723695
+DDD,success,trend_homepage,0.040768393167019745
+DDD,success,trend_htmlactivity,0.0
+DDD,success,trend_oucollaborate,0.045964647540156785
+DDD,success,trend_oucontent,0.024832882347219018
+DDD,success,trend_ouelluminate,0.004018125328189845
+DDD,success,trend_ouwiki,0.013086098348343627
+DDD,success,trend_page,0.08763031286341148
+DDD,success,trend_questionnaire,0.003184347714804531
+DDD,success,trend_quiz,0.00518804235684219
+DDD,success,trend_repeatactivity,0.0
+DDD,success,trend_resource,0.02760101369826428
+DDD,success,trend_sharedsubpage,0.0006563925292914004
+DDD,success,trend_subpage,0.03332247199861857
+DDD,success,trend_url,0.06467017742217177
+DDD,success,trend_n_submit,0.039613596656995174
+DDD,success,trend_mean_score,0.04800443952686639
+DDD,success,trend_n_late,0.009215645049135184
+DDD,success,trend_click_pct_in_pres,0.015897719297725113
+DDD,success,n_active_weeks,0.05845380268416265
+DDD,success,last_active_week,0.09448977621882469
+DDD,success,click_slope,0.03171081114969926
+DDD,success,num_of_prev_attempts,0.058882237360874376
+DDD,success,studied_credits,0.018295096457564303
+DDD,success,date_registration,0.03712065933078775
+DDD,success,module_presentation_length,0.07964668016428822
+DDD,success,reg_missing,0.0
+DDD,success,gender_F,0.00922907935062068
+DDD,success,gender_M,0.0038491613277436046
+DDD,success,region_East Anglian Region,0.0007124996378753708
+DDD,success,region_East Midlands Region,0.0018048626393297191
+DDD,success,region_Ireland,0.0019520124810187356
+DDD,success,region_London Region,0.0003022767987284504
+DDD,success,region_North Region,0.0002234335730567409
+DDD,success,region_North Western Region,0.016149258532339974
+DDD,success,region_Scotland,0.01485210867380713
+DDD,success,region_South East Region,0.01106256712028939
+DDD,success,region_South Region,0.020223838831559243
+DDD,success,region_South West Region,0.019640142825443227
+DDD,success,region_Wales,0.007731477765931015
+DDD,success,region_West Midlands Region,0.0006117886382378087
+DDD,success,region_Yorkshire Region,0.0019371630793427017
+DDD,success,highest_education_A Level or Equivalent,0.013326784901860993
+DDD,success,highest_education_HE Qualification,0.009279234746204422
+DDD,success,highest_education_Lower Than A Level,0.22397317786586982
+DDD,success,highest_education_No Formal quals,0.005215119509875853
+DDD,success,highest_education_Post Graduate Qualification,0.00047478957477165425
+DDD,success,imd_band_0-10%,0.0334191486585866
+DDD,success,imd_band_10-20,0.021584903102584718
+DDD,success,imd_band_20-30%,0.001544159278940947
+DDD,success,imd_band_30-40%,0.0006957721738920692
+DDD,success,imd_band_40-50%,0.0003156583777511289
+DDD,success,imd_band_50-60%,0.0012120358869348194
+DDD,success,imd_band_60-70%,0.016892813617867045
+DDD,success,imd_band_70-80%,0.0002045213630527119
+DDD,success,imd_band_80-90%,0.020128748651230557
+DDD,success,imd_band_90-100%,0.02788482232595101
+DDD,success,imd_band_NA,0.03893723125383564
+DDD,success,age_band_0-35,0.05322236332300277
+DDD,success,age_band_35-55,0.013003505624397093
+DDD,success,age_band_55<=,0.000534677756109404
+DDD,success,disability_N,0.001020022860711089
+DDD,success,disability_Y,0.0007916953989582317
+DDD,withdrawal,sum_dataplus,0.0001796085902289901
+DDD,withdrawal,sum_dualpane,0.03110677353883583
+DDD,withdrawal,sum_externalquiz,0.0160328789213283
+DDD,withdrawal,sum_folder,0.0
+DDD,withdrawal,sum_forumng,0.032313803984115215
+DDD,withdrawal,sum_glossary,0.046597556788257666
+DDD,withdrawal,sum_homepage,0.03202562776549513
+DDD,withdrawal,sum_htmlactivity,0.0
+DDD,withdrawal,sum_oucollaborate,0.034755262726903005
+DDD,withdrawal,sum_oucontent,0.02166029509133316
+DDD,withdrawal,sum_ouelluminate,0.002766291957429859
+DDD,withdrawal,sum_ouwiki,0.05864977486286984
+DDD,withdrawal,sum_page,0.0035483592186491704
+DDD,withdrawal,sum_questionnaire,0.0016782416813991773
+DDD,withdrawal,sum_quiz,0.06368700164536491
+DDD,withdrawal,sum_repeatactivity,0.0
+DDD,withdrawal,sum_resource,0.025008020274484614
+DDD,withdrawal,sum_sharedsubpage,0.0008544160344531973
+DDD,withdrawal,sum_subpage,0.02542906212826854
+DDD,withdrawal,sum_url,0.04519266692791391
+DDD,withdrawal,sum_n_submit,0.00932018885224655
+DDD,withdrawal,sum_mean_score,0.4547759895530762
+DDD,withdrawal,sum_n_late,0.10598952511282056
+DDD,withdrawal,sum_click_pct_in_pres,0.07786625233131064
+DDD,withdrawal,last2_dataplus,0.0
+DDD,withdrawal,last2_dualpane,0.0011142110817169365
+DDD,withdrawal,last2_externalquiz,0.012908693480645871
+DDD,withdrawal,last2_folder,0.0
+DDD,withdrawal,last2_forumng,0.04719550756240662
+DDD,withdrawal,last2_glossary,0.0009309950363177352
+DDD,withdrawal,last2_homepage,0.017903272834857403
+DDD,withdrawal,last2_htmlactivity,0.0
+DDD,withdrawal,last2_oucollaborate,0.02764584105772766
+DDD,withdrawal,last2_oucontent,0.01861456355116187
+DDD,withdrawal,last2_ouelluminate,0.0009439066711224005
+DDD,withdrawal,last2_ouwiki,0.004557348569775036
+DDD,withdrawal,last2_page,0.0
+DDD,withdrawal,last2_questionnaire,0.003097307622932223
+DDD,withdrawal,last2_quiz,0.017638338670930957
+DDD,withdrawal,last2_repeatactivity,0.0
+DDD,withdrawal,last2_resource,0.019277267609406287
+DDD,withdrawal,last2_sharedsubpage,0.0
+DDD,withdrawal,last2_subpage,0.011251658044474581
+DDD,withdrawal,last2_url,0.013942788671636033
+DDD,withdrawal,last2_n_submit,0.0001986442039768967
+DDD,withdrawal,last2_mean_score,0.07193809045190953
+DDD,withdrawal,last2_n_late,0.008163406560392392
+DDD,withdrawal,last2_click_pct_in_pres,0.13615753290476465
+DDD,withdrawal,trend_dataplus,0.0
+DDD,withdrawal,trend_dualpane,0.002956556189630716
+DDD,withdrawal,trend_externalquiz,0.030941369949575866
+DDD,withdrawal,trend_folder,0.0
+DDD,withdrawal,trend_forumng,0.0824683195883884
+DDD,withdrawal,trend_glossary,0.02027578041083211
+DDD,withdrawal,trend_homepage,0.03271838003789256
+DDD,withdrawal,trend_htmlactivity,0.0
+DDD,withdrawal,trend_oucollaborate,0.02791245208172748
+DDD,withdrawal,trend_oucontent,0.02718917155249783
+DDD,withdrawal,trend_ouelluminate,0.0009466710889531046
+DDD,withdrawal,trend_ouwiki,0.00803458402147308
+DDD,withdrawal,trend_page,0.028298697535863858
+DDD,withdrawal,trend_questionnaire,0.010468352037701384
+DDD,withdrawal,trend_quiz,0.012363336482141706
+DDD,withdrawal,trend_repeatactivity,0.0
+DDD,withdrawal,trend_resource,0.022791078279457058
+DDD,withdrawal,trend_sharedsubpage,0.0
+DDD,withdrawal,trend_subpage,0.03794588166592471
+DDD,withdrawal,trend_url,0.011742764182436811
+DDD,withdrawal,trend_n_submit,0.025298573426905478
+DDD,withdrawal,trend_mean_score,0.09324558975282321
+DDD,withdrawal,trend_n_late,0.005519714709121042
+DDD,withdrawal,trend_click_pct_in_pres,0.02806772896232461
+DDD,withdrawal,n_active_weeks,0.013417739638585755
+DDD,withdrawal,last_active_week,0.022145577044330362
+DDD,withdrawal,click_slope,0.019315774380747257
+DDD,withdrawal,num_of_prev_attempts,0.021984882503759084
+DDD,withdrawal,studied_credits,0.07451264443921024
+DDD,withdrawal,date_registration,0.03807841619463719
+DDD,withdrawal,module_presentation_length,0.03181413159056383
+DDD,withdrawal,reg_missing,0.0
+DDD,withdrawal,gender_F,0.0261825494920008
+DDD,withdrawal,gender_M,0.0007137776024625817
+DDD,withdrawal,region_East Anglian Region,0.0007462545492344739
+DDD,withdrawal,region_East Midlands Region,0.010017851857626846
+DDD,withdrawal,region_Ireland,0.0002890396581085992
+DDD,withdrawal,region_London Region,0.0022004994102784135
+DDD,withdrawal,region_North Region,0.006050251598434497
+DDD,withdrawal,region_North Western Region,0.0007462692881340071
+DDD,withdrawal,region_Scotland,0.0023530924351250542
+DDD,withdrawal,region_South East Region,0.0011123596661001688
+DDD,withdrawal,region_South Region,0.0032668738789356747
+DDD,withdrawal,region_South West Region,0.00010270124439320334
+DDD,withdrawal,region_Wales,0.0016980312964194675
+DDD,withdrawal,region_West Midlands Region,0.01688707988921383
+DDD,withdrawal,region_Yorkshire Region,0.0005737352261702913
+DDD,withdrawal,highest_education_A Level or Equivalent,0.018320024128475294
+DDD,withdrawal,highest_education_HE Qualification,0.002188937381051286
+DDD,withdrawal,highest_education_Lower Than A Level,0.053855058749337076
+DDD,withdrawal,highest_education_No Formal quals,0.0025790048612468175
+DDD,withdrawal,highest_education_Post Graduate Qualification,0.0
+DDD,withdrawal,imd_band_0-10%,0.010888165351196409
+DDD,withdrawal,imd_band_10-20,0.000993139104022659
+DDD,withdrawal,imd_band_20-30%,0.01581840825722662
+DDD,withdrawal,imd_band_30-40%,0.0032878302191892833
+DDD,withdrawal,imd_band_40-50%,0.0012985411908237091
+DDD,withdrawal,imd_band_50-60%,0.01744204444809559
+DDD,withdrawal,imd_band_60-70%,0.003000975057242603
+DDD,withdrawal,imd_band_70-80%,0.0011487076940327919
+DDD,withdrawal,imd_band_80-90%,0.0009731905047005684
+DDD,withdrawal,imd_band_90-100%,0.006898361526481557
+DDD,withdrawal,imd_band_NA,0.011199158758334877
+DDD,withdrawal,age_band_0-35,0.0007891587553853698
+DDD,withdrawal,age_band_35-55,0.012005989591534526
+DDD,withdrawal,age_band_55<=,0.0006256794022221412
+DDD,withdrawal,disability_N,0.02841392547017001
+DDD,withdrawal,disability_Y,0.013337176029411363
+EEE,success,sum_dataplus,0.0025826631345786436
+EEE,success,sum_dualpane,0.012590474586314184
+EEE,success,sum_externalquiz,0.0021968876912072696
+EEE,success,sum_folder,0.0
+EEE,success,sum_forumng,0.020546501176669858
+EEE,success,sum_glossary,0.002372095337522327
+EEE,success,sum_homepage,0.04015595644845494
+EEE,success,sum_htmlactivity,0.0
+EEE,success,sum_oucollaborate,0.011301591965444308
+EEE,success,sum_oucontent,0.07175613953422769
+EEE,success,sum_ouelluminate,0.009364844141111155
+EEE,success,sum_ouwiki,0.016058892872681255
+EEE,success,sum_page,0.010537366855005255
+EEE,success,sum_questionnaire,0.006032384784779054
+EEE,success,sum_quiz,0.11055828509648091
+EEE,success,sum_repeatactivity,0.0
+EEE,success,sum_resource,0.022328994297157363
+EEE,success,sum_sharedsubpage,0.0
+EEE,success,sum_subpage,0.019069667268724017
+EEE,success,sum_url,0.056026325583484575
+EEE,success,sum_n_submit,0.059745632669066115
+EEE,success,sum_mean_score,0.7625507119007706
+EEE,success,sum_n_late,0.19577205503951983
+EEE,success,sum_click_pct_in_pres,0.26206431292990073
+EEE,success,last2_dataplus,0.0
+EEE,success,last2_dualpane,0.0036372822984507974
+EEE,success,last2_externalquiz,0.00014784990252150854
+EEE,success,last2_folder,0.0
+EEE,success,last2_forumng,0.05206081872356756
+EEE,success,last2_glossary,0.0003239456959033049
+EEE,success,last2_homepage,0.10339152153403729
+EEE,success,last2_htmlactivity,0.0
+EEE,success,last2_oucollaborate,0.003672079443151713
+EEE,success,last2_oucontent,0.025459470473501472
+EEE,success,last2_ouelluminate,0.0
+EEE,success,last2_ouwiki,0.0005634249927827531
+EEE,success,last2_page,0.0010673718898190103
+EEE,success,last2_questionnaire,0.0
+EEE,success,last2_quiz,0.002882324161029579
+EEE,success,last2_repeatactivity,0.0
+EEE,success,last2_resource,0.014415035487423187
+EEE,success,last2_sharedsubpage,0.0
+EEE,success,last2_subpage,0.01089446349723195
+EEE,success,last2_url,0.031034491404266104
+EEE,success,last2_n_submit,0.005691775779446233
+EEE,success,last2_mean_score,0.14546246177137864
+EEE,success,last2_n_late,0.00017292736811026898
+EEE,success,last2_click_pct_in_pres,0.2247809914611393
+EEE,success,trend_dataplus,0.0
+EEE,success,trend_dualpane,0.009530481909213696
+EEE,success,trend_externalquiz,0.024737963481635677
+EEE,success,trend_folder,0.0
+EEE,success,trend_forumng,0.038211809080629065
+EEE,success,trend_glossary,0.001441112069767878
+EEE,success,trend_homepage,0.03814400569689837
+EEE,success,trend_htmlactivity,0.0
+EEE,success,trend_oucollaborate,0.03949817055225769
+EEE,success,trend_oucontent,0.051480464359998375
+EEE,success,trend_ouelluminate,0.002797898918486668
+EEE,success,trend_ouwiki,0.007071228861187889
+EEE,success,trend_page,0.08706465741696917
+EEE,success,trend_questionnaire,0.0038703229253538563
+EEE,success,trend_quiz,0.028451705278764075
+EEE,success,trend_repeatactivity,0.0
+EEE,success,trend_resource,0.027528226195951654
+EEE,success,trend_sharedsubpage,0.0011435097834914109
+EEE,success,trend_subpage,0.027432822082475203
+EEE,success,trend_url,0.09274746991813425
+EEE,success,trend_n_submit,0.022488813809264492
+EEE,success,trend_mean_score,0.030514272670182037
+EEE,success,trend_n_late,0.01133035124069852
+EEE,success,trend_click_pct_in_pres,0.018651733904648225
+EEE,success,n_active_weeks,0.06294665401818172
+EEE,success,last_active_week,0.11503255149453868
+EEE,success,click_slope,0.03869489175141388
+EEE,success,num_of_prev_attempts,0.03480589078145514
+EEE,success,studied_credits,0.036073751149625105
+EEE,success,date_registration,0.03998740120782766
+EEE,success,module_presentation_length,0.11735036268358784
+EEE,success,reg_missing,0.0
+EEE,success,gender_F,0.010516267555365734
+EEE,success,gender_M,0.00026980304489429324
+EEE,success,region_East Anglian Region,0.0007025715370727099
+EEE,success,region_East Midlands Region,0.0003482521870312287
+EEE,success,region_Ireland,0.0012467290946053032
+EEE,success,region_London Region,0.00024839308120200017
+EEE,success,region_North Region,0.002097994952036125
+EEE,success,region_North Western Region,0.010620754847646244
+EEE,success,region_Scotland,0.025734056373826662
+EEE,success,region_South East Region,0.011150777896713768
+EEE,success,region_South Region,0.014895073476590744
+EEE,success,region_South West Region,0.01547698600760222
+EEE,success,region_Wales,0.006600411255565467
+EEE,success,region_West Midlands Region,0.0010655501075553235
+EEE,success,region_Yorkshire Region,0.0012895072588783255
+EEE,success,highest_education_A Level or Equivalent,0.014801524297296323
+EEE,success,highest_education_HE Qualification,0.008428434173760959
+EEE,success,highest_education_Lower Than A Level,0.2008258523255075
+EEE,success,highest_education_No Formal quals,0.0038980232348440873
+EEE,success,highest_education_Post Graduate Qualification,0.001098685705611647
+EEE,success,imd_band_0-10%,0.029828589886241225
+EEE,success,imd_band_10-20,0.02970782172887853
+EEE,success,imd_band_20-30%,0.0012043269631861352
+EEE,success,imd_band_30-40%,0.0012168736096602958
+EEE,success,imd_band_40-50%,0.0007449439114808297
+EEE,success,imd_band_50-60%,0.0004917131415282353
+EEE,success,imd_band_60-70%,0.020176300711369284
+EEE,success,imd_band_70-80%,0.002465136308664546
+EEE,success,imd_band_80-90%,0.011186448848832437
+EEE,success,imd_band_90-100%,0.029220839963420963
+EEE,success,imd_band_NA,0.034217570584156344
+EEE,success,age_band_0-35,0.061602081215486174
+EEE,success,age_band_35-55,0.0045750065747452474
+EEE,success,age_band_55<=,0.0004599547390032855
+EEE,success,disability_N,0.0019093965309979844
+EEE,success,disability_Y,0.0
+EEE,withdrawal,sum_dataplus,0.0005511682475574208
+EEE,withdrawal,sum_dualpane,0.03944778920640362
+EEE,withdrawal,sum_externalquiz,0.004619810617823608
+EEE,withdrawal,sum_folder,0.0
+EEE,withdrawal,sum_forumng,0.040545533373960205
+EEE,withdrawal,sum_glossary,0.002371849862719728
+EEE,withdrawal,sum_homepage,0.02315184141516328
+EEE,withdrawal,sum_htmlactivity,0.0
+EEE,withdrawal,sum_oucollaborate,0.014217951439422992
+EEE,withdrawal,sum_oucontent,0.02631118263572363
+EEE,withdrawal,sum_ouelluminate,0.0015456604205043025
+EEE,withdrawal,sum_ouwiki,0.060899783028306766
+EEE,withdrawal,sum_page,0.003937636924329214
+EEE,withdrawal,sum_questionnaire,0.004059803051200375
+EEE,withdrawal,sum_quiz,0.04094588583029789
+EEE,withdrawal,sum_repeatactivity,0.0
+EEE,withdrawal,sum_resource,0.03360954205048424
+EEE,withdrawal,sum_sharedsubpage,0.00013847393139052304
+EEE,withdrawal,sum_subpage,0.04828936732376858
+EEE,withdrawal,sum_url,0.05610940123240561
+EEE,withdrawal,sum_n_submit,0.0040811089096980495
+EEE,withdrawal,sum_mean_score,0.2914628166015739
+EEE,withdrawal,sum_n_late,0.11522624685429222
+EEE,withdrawal,sum_click_pct_in_pres,0.06278761047496122
+EEE,withdrawal,last2_dataplus,0.0
+EEE,withdrawal,last2_dualpane,0.0012511796565463067
+EEE,withdrawal,last2_externalquiz,0.0021562156780178627
+EEE,withdrawal,last2_folder,0.0
+EEE,withdrawal,last2_forumng,0.05194660267469894
+EEE,withdrawal,last2_glossary,6.7230669988574e-05
+EEE,withdrawal,last2_homepage,0.027751876965576395
+EEE,withdrawal,last2_htmlactivity,0.0
+EEE,withdrawal,last2_oucollaborate,0.006482135224779289
+EEE,withdrawal,last2_oucontent,0.05013732859087059
+EEE,withdrawal,last2_ouelluminate,0.0005325741475054904
+EEE,withdrawal,last2_ouwiki,0.004074937797606664
+EEE,withdrawal,last2_page,0.0
+EEE,withdrawal,last2_questionnaire,0.003093342531402457
+EEE,withdrawal,last2_quiz,0.01682445722976191
+EEE,withdrawal,last2_repeatactivity,0.0
+EEE,withdrawal,last2_resource,0.00653587680173958
+EEE,withdrawal,last2_sharedsubpage,0.0
+EEE,withdrawal,last2_subpage,0.007718521957398762
+EEE,withdrawal,last2_url,0.0752014131174708
+EEE,withdrawal,last2_n_submit,8.893053676586937e-05
+EEE,withdrawal,last2_mean_score,0.11688739948278885
+EEE,withdrawal,last2_n_late,0.02037357145030561
+EEE,withdrawal,last2_click_pct_in_pres,0.11529184514635904
+EEE,withdrawal,trend_dataplus,0.0
+EEE,withdrawal,trend_dualpane,0.006499480977969867
+EEE,withdrawal,trend_externalquiz,0.0062288513235507735
+EEE,withdrawal,trend_folder,0.0
+EEE,withdrawal,trend_forumng,0.06693207830064678
+EEE,withdrawal,trend_glossary,0.0017354408430984257
+EEE,withdrawal,trend_homepage,0.03805866694026211
+EEE,withdrawal,trend_htmlactivity,0.0
+EEE,withdrawal,trend_oucollaborate,0.027092473024551946
+EEE,withdrawal,trend_oucontent,0.054729393300978604
+EEE,withdrawal,trend_ouelluminate,0.0012455986744381842
+EEE,withdrawal,trend_ouwiki,0.013675247887973061
+EEE,withdrawal,trend_page,0.02282604402797801
+EEE,withdrawal,trend_questionnaire,0.009879068745736153
+EEE,withdrawal,trend_quiz,0.033395814365322546
+EEE,withdrawal,trend_repeatactivity,0.0
+EEE,withdrawal,trend_resource,0.028627061116078822
+EEE,withdrawal,trend_sharedsubpage,0.0
+EEE,withdrawal,trend_subpage,0.03461800367150942
+EEE,withdrawal,trend_url,0.032877428623750614
+EEE,withdrawal,trend_n_submit,0.07430738319522766
+EEE,withdrawal,trend_mean_score,0.11858694616451596
+EEE,withdrawal,trend_n_late,0.0020549887537703827
+EEE,withdrawal,trend_click_pct_in_pres,0.02532634602325631
+EEE,withdrawal,n_active_weeks,0.015818962604255693
+EEE,withdrawal,last_active_week,0.01730705242240322
+EEE,withdrawal,click_slope,0.024602625855644093
+EEE,withdrawal,num_of_prev_attempts,0.018093276588369518
+EEE,withdrawal,studied_credits,0.10194456339276545
+EEE,withdrawal,date_registration,0.03648932706259627
+EEE,withdrawal,module_presentation_length,0.038625198828195435
+EEE,withdrawal,reg_missing,0.0
+EEE,withdrawal,gender_F,0.01391815491445061
+EEE,withdrawal,gender_M,0.008162698859990561
+EEE,withdrawal,region_East Anglian Region,0.006186713457152354
+EEE,withdrawal,region_East Midlands Region,0.010278778947890975
+EEE,withdrawal,region_Ireland,0.0005057458872365577
+EEE,withdrawal,region_London Region,0.001644813707376306
+EEE,withdrawal,region_North Region,0.0006343118629806314
+EEE,withdrawal,region_North Western Region,0.001086314508695526
+EEE,withdrawal,region_Scotland,0.003507162919542832
+EEE,withdrawal,region_South East Region,0.000904527518059728
+EEE,withdrawal,region_South Region,0.005469351850422503
+EEE,withdrawal,region_South West Region,0.00041502293947216984
+EEE,withdrawal,region_Wales,0.003380470463095893
+EEE,withdrawal,region_West Midlands Region,0.012697168020457637
+EEE,withdrawal,region_Yorkshire Region,0.002819861735300763
+EEE,withdrawal,highest_education_A Level or Equivalent,0.008815258626685708
+EEE,withdrawal,highest_education_HE Qualification,0.0018942553141404334
+EEE,withdrawal,highest_education_Lower Than A Level,0.04247282780896289
+EEE,withdrawal,highest_education_No Formal quals,0.002172090132125585
+EEE,withdrawal,highest_education_Post Graduate Qualification,0.0
+EEE,withdrawal,imd_band_0-10%,0.006491830947609218
+EEE,withdrawal,imd_band_10-20,0.0005326526053884245
+EEE,withdrawal,imd_band_20-30%,0.01121458744568602
+EEE,withdrawal,imd_band_30-40%,0.0029519116662128273
+EEE,withdrawal,imd_band_40-50%,0.001349300548827962
+EEE,withdrawal,imd_band_50-60%,0.014279801852045637
+EEE,withdrawal,imd_band_60-70%,0.0036802651777463036
+EEE,withdrawal,imd_band_70-80%,0.0028383042714704267
+EEE,withdrawal,imd_band_80-90%,0.0008789139284165493
+EEE,withdrawal,imd_band_90-100%,0.007238736389689602
+EEE,withdrawal,imd_band_NA,0.009905498239145839
+EEE,withdrawal,age_band_0-35,0.003567281094053873
+EEE,withdrawal,age_band_35-55,0.0075982523850600375
+EEE,withdrawal,age_band_55<=,0.0
+EEE,withdrawal,disability_N,0.027282954357916535
+EEE,withdrawal,disability_Y,0.004463189459815517
+FFF,success,sum_dataplus,0.0023305952200466593
+FFF,success,sum_dualpane,0.017877836305988066
+FFF,success,sum_externalquiz,0.003365294576204936
+FFF,success,sum_folder,0.0
+FFF,success,sum_forumng,0.027484318535953036
+FFF,success,sum_glossary,0.002220814841365986
+FFF,success,sum_homepage,0.05025848182125343
+FFF,success,sum_htmlactivity,0.0
+FFF,success,sum_oucollaborate,0.012379164282741776
+FFF,success,sum_oucontent,0.07112404847657802
+FFF,success,sum_ouelluminate,0.007000411322994727
+FFF,success,sum_ouwiki,0.016604562143753478
+FFF,success,sum_page,0.010079555962958262
+FFF,success,sum_questionnaire,0.016812864136949913
+FFF,success,sum_quiz,0.1167696113292628
+FFF,success,sum_repeatactivity,0.0
+FFF,success,sum_resource,0.019631580866736123
+FFF,success,sum_sharedsubpage,0.00011797464783486956
+FFF,success,sum_subpage,0.016829258790291582
+FFF,success,sum_url,0.028553223302729788
+FFF,success,sum_n_submit,0.04545466556144274
+FFF,success,sum_mean_score,0.9205041831222847
+FFF,success,sum_n_late,0.14446380702634373
+FFF,success,sum_click_pct_in_pres,0.2900162215503809
+FFF,success,last2_dataplus,0.0
+FFF,success,last2_dualpane,0.0029728384716130383
+FFF,success,last2_externalquiz,0.0004553453897211533
+FFF,success,last2_folder,0.0
+FFF,success,last2_forumng,0.0444489074748418
+FFF,success,last2_glossary,0.00013041849691698622
+FFF,success,last2_homepage,0.0947270795976547
+FFF,success,last2_htmlactivity,0.0
+FFF,success,last2_oucollaborate,0.005276197932068202
+FFF,success,last2_oucontent,0.02399531489783137
+FFF,success,last2_ouelluminate,0.00010919205317841281
+FFF,success,last2_ouwiki,0.004353251290694598
+FFF,success,last2_page,0.0
+FFF,success,last2_questionnaire,0.001058248958576612
+FFF,success,last2_quiz,0.02866211393959596
+FFF,success,last2_repeatactivity,0.0
+FFF,success,last2_resource,0.010030499009053137
+FFF,success,last2_sharedsubpage,0.0
+FFF,success,last2_subpage,0.013993834145613677
+FFF,success,last2_url,0.013010721225691899
+FFF,success,last2_n_submit,0.0067270886816383
+FFF,success,last2_mean_score,0.07301978169288606
+FFF,success,last2_n_late,0.002590686180535176
+FFF,success,last2_click_pct_in_pres,0.21694999024933506
+FFF,success,trend_dataplus,0.0001809047408521627
+FFF,success,trend_dualpane,0.004638074400356774
+FFF,success,trend_externalquiz,0.010836237936772306
+FFF,success,trend_folder,0.0
+FFF,success,trend_forumng,0.030110436855164582
+FFF,success,trend_glossary,0.0025063051468684565
+FFF,success,trend_homepage,0.0488110096221409
+FFF,success,trend_htmlactivity,0.0
+FFF,success,trend_oucollaborate,0.036071207737792606
+FFF,success,trend_oucontent,0.028721389837519123
+FFF,success,trend_ouelluminate,0.0027145909551547546
+FFF,success,trend_ouwiki,0.025515893436614433
+FFF,success,trend_page,0.05885853870514893
+FFF,success,trend_questionnaire,0.0033261337334070237
+FFF,success,trend_quiz,0.02411682887475828
+FFF,success,trend_repeatactivity,0.0
+FFF,success,trend_resource,0.03885960022816358
+FFF,success,trend_sharedsubpage,0.0007816295822536483
+FFF,success,trend_subpage,0.043910756237624436
+FFF,success,trend_url,0.056501260586550035
+FFF,success,trend_n_submit,0.02167127334784901
+FFF,success,trend_mean_score,0.07324925938237935
+FFF,success,trend_n_late,0.005220991245874433
+FFF,success,trend_click_pct_in_pres,0.018093476280708384
+FFF,success,n_active_weeks,0.04618101476596406
+FFF,success,last_active_week,0.09572229192023864
+FFF,success,click_slope,0.051138755913871924
+FFF,success,num_of_prev_attempts,0.050398204807200704
+FFF,success,studied_credits,0.026242091909683442
+FFF,success,date_registration,0.05074786632080281
+FFF,success,module_presentation_length,0.10036182254681822
+FFF,success,reg_missing,0.0
+FFF,success,gender_F,0.007013361709030454
+FFF,success,gender_M,0.0008022889895044526
+FFF,success,region_East Anglian Region,0.0
+FFF,success,region_East Midlands Region,0.0008902235860904101
+FFF,success,region_Ireland,0.000957569706650749
+FFF,success,region_London Region,0.0012974976617091893
+FFF,success,region_North Region,0.002248600734321933
+FFF,success,region_North Western Region,0.015291555885298649
+FFF,success,region_Scotland,0.015758868923695473
+FFF,success,region_South East Region,0.013540284142185962
+FFF,success,region_South Region,0.018528726853832677
+FFF,success,region_South West Region,0.01777310003913165
+FFF,success,region_Wales,0.008382284210426279
+FFF,success,region_West Midlands Region,0.002732364416734696
+FFF,success,region_Yorkshire Region,0.002199730662548673
+FFF,success,highest_education_A Level or Equivalent,0.019746196491687126
+FFF,success,highest_education_HE Qualification,0.004157903444032522
+FFF,success,highest_education_Lower Than A Level,0.23415250996808606
+FFF,success,highest_education_No Formal quals,0.004616602706156175
+FFF,success,highest_education_Post Graduate Qualification,0.0016308992525751363
+FFF,success,imd_band_0-10%,0.03683121743025747
+FFF,success,imd_band_10-20,0.02826031055319344
+FFF,success,imd_band_20-30%,0.002721984835144555
+FFF,success,imd_band_30-40%,0.0
+FFF,success,imd_band_40-50%,0.0011420872726361953
+FFF,success,imd_band_50-60%,0.0001366379036665867
+FFF,success,imd_band_60-70%,0.021927436160930958
+FFF,success,imd_band_70-80%,0.0017238587756013104
+FFF,success,imd_band_80-90%,0.01765286588247332
+FFF,success,imd_band_90-100%,0.028048866344550016
+FFF,success,imd_band_NA,0.03976511305240544
+FFF,success,age_band_0-35,0.05102559455187425
+FFF,success,age_band_35-55,0.006320154882397076
+FFF,success,age_band_55<=,0.0
+FFF,success,disability_N,0.0016824386290372323
+FFF,success,disability_Y,0.0004041084848047789
+FFF,withdrawal,sum_dataplus,0.0003693718609440412
+FFF,withdrawal,sum_dualpane,0.0350887262749325
+FFF,withdrawal,sum_externalquiz,0.015198575744884887
+FFF,withdrawal,sum_folder,0.0
+FFF,withdrawal,sum_forumng,0.02687685099002456
+FFF,withdrawal,sum_glossary,0.0013750382262749077
+FFF,withdrawal,sum_homepage,0.030887260045087243
+FFF,withdrawal,sum_htmlactivity,0.0
+FFF,withdrawal,sum_oucollaborate,0.01404551485263751
+FFF,withdrawal,sum_oucontent,0.025029092700185402
+FFF,withdrawal,sum_ouelluminate,0.005250853980788384
+FFF,withdrawal,sum_ouwiki,0.054449052119386054
+FFF,withdrawal,sum_page,0.006937019464987797
+FFF,withdrawal,sum_questionnaire,0.007723339235698875
+FFF,withdrawal,sum_quiz,0.06127709541731273
+FFF,withdrawal,sum_repeatactivity,0.0
+FFF,withdrawal,sum_resource,0.02626643054190684
+FFF,withdrawal,sum_sharedsubpage,0.00041560987501117175
+FFF,withdrawal,sum_subpage,0.05125118800464957
+FFF,withdrawal,sum_url,0.04973035789888325
+FFF,withdrawal,sum_n_submit,0.023295026059755954
+FFF,withdrawal,sum_mean_score,0.4734366541773041
+FFF,withdrawal,sum_n_late,0.1158853059841067
+FFF,withdrawal,sum_click_pct_in_pres,0.06748179533582531
+FFF,withdrawal,last2_dataplus,0.0
+FFF,withdrawal,last2_dualpane,0.001984611959445011
+FFF,withdrawal,last2_externalquiz,0.0013297496094649038
+FFF,withdrawal,last2_folder,0.0
+FFF,withdrawal,last2_forumng,0.04058769730140205
+FFF,withdrawal,last2_glossary,0.00037720933155881294
+FFF,withdrawal,last2_homepage,0.032986512752484855
+FFF,withdrawal,last2_htmlactivity,0.0
+FFF,withdrawal,last2_oucollaborate,0.019388082765185943
+FFF,withdrawal,last2_oucontent,0.0633012311672428
+FFF,withdrawal,last2_ouelluminate,0.0006045289271908327
+FFF,withdrawal,last2_ouwiki,0.007541908664580413
+FFF,withdrawal,last2_page,0.0027003800358166123
+FFF,withdrawal,last2_questionnaire,0.009387447675282164
+FFF,withdrawal,last2_quiz,0.03872310520939481
+FFF,withdrawal,last2_repeatactivity,0.0
+FFF,withdrawal,last2_resource,0.005004928713615714
+FFF,withdrawal,last2_sharedsubpage,0.0
+FFF,withdrawal,last2_subpage,0.01822629761052918
+FFF,withdrawal,last2_url,0.013091479395748425
+FFF,withdrawal,last2_n_submit,0.001148156546106929
+FFF,withdrawal,last2_mean_score,0.031022604434980974
+FFF,withdrawal,last2_n_late,0.010526704518810713
+FFF,withdrawal,last2_click_pct_in_pres,0.13878796022846002
+FFF,withdrawal,trend_dataplus,0.0
+FFF,withdrawal,trend_dualpane,0.0027212285242648217
+FFF,withdrawal,trend_externalquiz,0.015041554253762404
+FFF,withdrawal,trend_folder,0.0
+FFF,withdrawal,trend_forumng,0.0785416709801191
+FFF,withdrawal,trend_glossary,0.0048582258021896444
+FFF,withdrawal,trend_homepage,0.03130973414095813
+FFF,withdrawal,trend_htmlactivity,0.0
+FFF,withdrawal,trend_oucollaborate,0.022882411237281578
+FFF,withdrawal,trend_oucontent,0.03842155114789483
+FFF,withdrawal,trend_ouelluminate,0.0017292567987178273
+FFF,withdrawal,trend_ouwiki,0.027743683717742513
+FFF,withdrawal,trend_page,0.016542323991428312
+FFF,withdrawal,trend_questionnaire,0.03403359886422289
+FFF,withdrawal,trend_quiz,0.037867931501431584
+FFF,withdrawal,trend_repeatactivity,0.0
+FFF,withdrawal,trend_resource,0.03523076950935216
+FFF,withdrawal,trend_sharedsubpage,0.0
+FFF,withdrawal,trend_subpage,0.046733900616749466
+FFF,withdrawal,trend_url,0.02127583548009129
+FFF,withdrawal,trend_n_submit,0.026393583317108782
+FFF,withdrawal,trend_mean_score,0.116333304655733
+FFF,withdrawal,trend_n_late,0.0018526361897373614
+FFF,withdrawal,trend_click_pct_in_pres,0.04056034242994987
+FFF,withdrawal,n_active_weeks,0.014481580426055844
+FFF,withdrawal,last_active_week,0.023907410151022605
+FFF,withdrawal,click_slope,0.019476779658837845
+FFF,withdrawal,num_of_prev_attempts,0.02713292069909758
+FFF,withdrawal,studied_credits,0.07124120587347471
+FFF,withdrawal,date_registration,0.03182978300106556
+FFF,withdrawal,module_presentation_length,0.059225026151979075
+FFF,withdrawal,reg_missing,0.0
+FFF,withdrawal,gender_F,0.029700181719929213
+FFF,withdrawal,gender_M,0.005291640856886513
+FFF,withdrawal,region_East Anglian Region,0.002855529125949474
+FFF,withdrawal,region_East Midlands Region,0.010687772557711197
+FFF,withdrawal,region_Ireland,0.0006141660876636054
+FFF,withdrawal,region_London Region,0.002707333869635705
+FFF,withdrawal,region_North Region,0.0005739596740817025
+FFF,withdrawal,region_North Western Region,0.0022600401505848875
+FFF,withdrawal,region_Scotland,0.0012222629448193543
+FFF,withdrawal,region_South East Region,0.0007691898769507777
+FFF,withdrawal,region_South Region,0.0024299456211224054
+FFF,withdrawal,region_South West Region,0.0003940884589469782
+FFF,withdrawal,region_Wales,0.006064845623855145
+FFF,withdrawal,region_West Midlands Region,0.014893870445286905
+FFF,withdrawal,region_Yorkshire Region,0.0012794650131653382
+FFF,withdrawal,highest_education_A Level or Equivalent,0.02670152753706651
+FFF,withdrawal,highest_education_HE Qualification,0.003271474104256762
+FFF,withdrawal,highest_education_Lower Than A Level,0.05468514119216955
+FFF,withdrawal,highest_education_No Formal quals,0.0021669691948009097
+FFF,withdrawal,highest_education_Post Graduate Qualification,0.0
+FFF,withdrawal,imd_band_0-10%,0.006553542941224268
+FFF,withdrawal,imd_band_10-20,0.0011350551820593503
+FFF,withdrawal,imd_band_20-30%,0.019203683663235018
+FFF,withdrawal,imd_band_30-40%,0.00177551805635345
+FFF,withdrawal,imd_band_40-50%,0.0009147725822236922
+FFF,withdrawal,imd_band_50-60%,0.012703784109220278
+FFF,withdrawal,imd_band_60-70%,0.006120303910448312
+FFF,withdrawal,imd_band_70-80%,0.003019910820256033
+FFF,withdrawal,imd_band_80-90%,0.0017353977268332978
+FFF,withdrawal,imd_band_90-100%,0.006591894103211696
+FFF,withdrawal,imd_band_NA,0.01031043686915724
+FFF,withdrawal,age_band_0-35,0.002318570904184183
+FFF,withdrawal,age_band_35-55,0.010726132822766443
+FFF,withdrawal,age_band_55<=,0.0
+FFF,withdrawal,disability_N,0.035520429981126485
+FFF,withdrawal,disability_Y,0.011214681942928848
+GGG,success,sum_dataplus,0.0023566676693676223
+GGG,success,sum_dualpane,0.013770508639095388
+GGG,success,sum_externalquiz,0.009253522237742649
+GGG,success,sum_folder,0.0
+GGG,success,sum_forumng,0.02769284666128223
+GGG,success,sum_glossary,0.004334267219324783
+GGG,success,sum_homepage,0.0354682805353288
+GGG,success,sum_htmlactivity,0.0
+GGG,success,sum_oucollaborate,0.006695501829894889
+GGG,success,sum_oucontent,0.024934444417586576
+GGG,success,sum_ouelluminate,0.009569221351975138
+GGG,success,sum_ouwiki,0.00618276570406795
+GGG,success,sum_page,0.004509426596134144
+GGG,success,sum_questionnaire,0.006147719122391123
+GGG,success,sum_quiz,0.13612001346665056
+GGG,success,sum_repeatactivity,0.0
+GGG,success,sum_resource,0.01594815307262568
+GGG,success,sum_sharedsubpage,0.0
+GGG,success,sum_subpage,0.01955242569215161
+GGG,success,sum_url,0.07069145770933868
+GGG,success,sum_n_submit,0.04177674544807177
+GGG,success,sum_mean_score,1.1932867728012058
+GGG,success,sum_n_late,0.1710428989027163
+GGG,success,sum_click_pct_in_pres,0.23566046407081043
+GGG,success,last2_dataplus,0.0
+GGG,success,last2_dualpane,0.0015639363469806804
+GGG,success,last2_externalquiz,0.00036196008624096916
+GGG,success,last2_folder,0.0
+GGG,success,last2_forumng,0.03359857546328715
+GGG,success,last2_glossary,0.0007636569116157577
+GGG,success,last2_homepage,0.09399750229756694
+GGG,success,last2_htmlactivity,0.0
+GGG,success,last2_oucollaborate,0.0019038861729392016
+GGG,success,last2_oucontent,0.008024304570989859
+GGG,success,last2_ouelluminate,0.0
+GGG,success,last2_ouwiki,0.00036356759226425914
+GGG,success,last2_page,0.0002966695130466384
+GGG,success,last2_questionnaire,0.0
+GGG,success,last2_quiz,0.007044613703821944
+GGG,success,last2_repeatactivity,0.0
+GGG,success,last2_resource,0.013309585725617686
+GGG,success,last2_sharedsubpage,0.0
+GGG,success,last2_subpage,0.004470801369718424
+GGG,success,last2_url,0.004436676061838291
+GGG,success,last2_n_submit,0.005858920950785981
+GGG,success,last2_mean_score,0.09095506843091199
+GGG,success,last2_n_late,0.0011205873150057037
+GGG,success,last2_click_pct_in_pres,0.2983369621560755
+GGG,success,trend_dataplus,0.0
+GGG,success,trend_dualpane,0.004750995202020496
+GGG,success,trend_externalquiz,0.025441205621364427
+GGG,success,trend_folder,0.0
+GGG,success,trend_forumng,0.020879534007296245
+GGG,success,trend_glossary,0.004554088325658956
+GGG,success,trend_homepage,0.04108762973993382
+GGG,success,trend_htmlactivity,0.0
+GGG,success,trend_oucollaborate,0.0013654907469172817
+GGG,success,trend_oucontent,0.028259263382128506
+GGG,success,trend_ouelluminate,0.004695916532172394
+GGG,success,trend_ouwiki,0.008242585487149175
+GGG,success,trend_page,0.08985002809182249
+GGG,success,trend_questionnaire,0.004231019519819723
+GGG,success,trend_quiz,0.013517824541415086
+GGG,success,trend_repeatactivity,0.0
+GGG,success,trend_resource,0.02357973303892036
+GGG,success,trend_sharedsubpage,0.0007997231578001163
+GGG,success,trend_subpage,0.025906236159682315
+GGG,success,trend_url,0.12687955326335112
+GGG,success,trend_n_submit,0.0344344697778391
+GGG,success,trend_mean_score,0.039142778881219795
+GGG,success,trend_n_late,0.003214349290029075
+GGG,success,trend_click_pct_in_pres,0.018221275716168155
+GGG,success,n_active_weeks,0.04504143200309943
+GGG,success,last_active_week,0.1494273733632506
+GGG,success,click_slope,0.07941716901970645
+GGG,success,num_of_prev_attempts,0.02039492181630211
+GGG,success,studied_credits,0.13842204782370962
+GGG,success,date_registration,0.03409328253903068
+GGG,success,module_presentation_length,0.10413061796940742
+GGG,success,reg_missing,0.0
+GGG,success,gender_F,0.013028578410025847
+GGG,success,gender_M,0.0030160728110687645
+GGG,success,region_East Anglian Region,0.0009439591739393306
+GGG,success,region_East Midlands Region,0.0014651439633858161
+GGG,success,region_Ireland,0.00023411650339253193
+GGG,success,region_London Region,0.0009144410783409538
+GGG,success,region_North Region,0.0012278980575089076
+GGG,success,region_North Western Region,0.025828022388807333
+GGG,success,region_Scotland,0.019638690800344232
+GGG,success,region_South East Region,0.009556813348302776
+GGG,success,region_South Region,0.016678998194595684
+GGG,success,region_South West Region,0.019609485700514323
+GGG,success,region_Wales,0.009463308752160553
+GGG,success,region_West Midlands Region,0.0015761426881795804
+GGG,success,region_Yorkshire Region,0.00020401314944953723
+GGG,success,highest_education_A Level or Equivalent,0.034514256766980424
+GGG,success,highest_education_HE Qualification,0.004493415404336789
+GGG,success,highest_education_Lower Than A Level,0.17844834272360238
+GGG,success,highest_education_No Formal quals,0.008946366137029295
+GGG,success,highest_education_Post Graduate Qualification,0.000988825050364073
+GGG,success,imd_band_0-10%,0.034579781687662584
+GGG,success,imd_band_10-20,0.022045041927862594
+GGG,success,imd_band_20-30%,0.0009570630938855399
+GGG,success,imd_band_30-40%,0.00023662672793048277
+GGG,success,imd_band_40-50%,0.0024826126073858408
+GGG,success,imd_band_50-60%,0.00020150874271488515
+GGG,success,imd_band_60-70%,0.016852466398755102
+GGG,success,imd_band_70-80%,0.0014992774285610445
+GGG,success,imd_band_80-90%,0.009042273871069458
+GGG,success,imd_band_90-100%,0.028790375317723382
+GGG,success,imd_band_NA,0.020733961280492232
+GGG,success,age_band_0-35,0.09453018834001525
+GGG,success,age_band_35-55,0.0038075972722223816
+GGG,success,age_band_55<=,0.0004417616201047055
+GGG,success,disability_N,0.0035959217382561543
+GGG,success,disability_Y,0.0015799886429233745
+GGG,withdrawal,sum_dataplus,0.00016050462214012463
+GGG,withdrawal,sum_dualpane,0.019997279193681973
+GGG,withdrawal,sum_externalquiz,0.011102782452777874
+GGG,withdrawal,sum_folder,0.0
+GGG,withdrawal,sum_forumng,0.025363213666621403
+GGG,withdrawal,sum_glossary,0.004651619855202058
+GGG,withdrawal,sum_homepage,0.03742505416489292
+GGG,withdrawal,sum_htmlactivity,0.0
+GGG,withdrawal,sum_oucollaborate,0.003316340921723459
+GGG,withdrawal,sum_oucontent,0.013350040907286973
+GGG,withdrawal,sum_ouelluminate,0.0015768931423958267
+GGG,withdrawal,sum_ouwiki,0.05212972335597871
+GGG,withdrawal,sum_page,0.0032517407506563265
+GGG,withdrawal,sum_questionnaire,0.002017064910450044
+GGG,withdrawal,sum_quiz,0.061796012395171115
+GGG,withdrawal,sum_repeatactivity,0.0
+GGG,withdrawal,sum_resource,0.017032649902640966
+GGG,withdrawal,sum_sharedsubpage,0.00034583580835338
+GGG,withdrawal,sum_subpage,0.02891961690596334
+GGG,withdrawal,sum_url,0.14999554604100507
+GGG,withdrawal,sum_n_submit,0.01004118674205424
+GGG,withdrawal,sum_mean_score,0.30147962134065437
+GGG,withdrawal,sum_n_late,0.10230112698489602
+GGG,withdrawal,sum_click_pct_in_pres,0.09804660386249472
+GGG,withdrawal,last2_dataplus,0.0
+GGG,withdrawal,last2_dualpane,0.002560834051968145
+GGG,withdrawal,last2_externalquiz,0.0009765625100952356
+GGG,withdrawal,last2_folder,0.0
+GGG,withdrawal,last2_forumng,0.053938971836600534
+GGG,withdrawal,last2_glossary,0.0008380859487405676
+GGG,withdrawal,last2_homepage,0.013629404718543523
+GGG,withdrawal,last2_htmlactivity,0.0
+GGG,withdrawal,last2_oucollaborate,0.002216185026355204
+GGG,withdrawal,last2_oucontent,0.021457547179489937
+GGG,withdrawal,last2_ouelluminate,0.0006582936693737988
+GGG,withdrawal,last2_ouwiki,0.003293890242476795
+GGG,withdrawal,last2_page,0.0
+GGG,withdrawal,last2_questionnaire,0.0027503797997747155
+GGG,withdrawal,last2_quiz,0.019678257257052648
+GGG,withdrawal,last2_repeatactivity,0.0
+GGG,withdrawal,last2_resource,0.008351870231223312
+GGG,withdrawal,last2_sharedsubpage,0.0
+GGG,withdrawal,last2_subpage,0.004494749458763009
+GGG,withdrawal,last2_url,0.010338058931672924
+GGG,withdrawal,last2_n_submit,0.00047578274424161875
+GGG,withdrawal,last2_mean_score,0.030500678605389648
+GGG,withdrawal,last2_n_late,0.007316629513267853
+GGG,withdrawal,last2_click_pct_in_pres,0.1399049723728704
+GGG,withdrawal,trend_dataplus,0.0
+GGG,withdrawal,trend_dualpane,0.0056799592936164316
+GGG,withdrawal,trend_externalquiz,0.01432136200942968
+GGG,withdrawal,trend_folder,0.0
+GGG,withdrawal,trend_forumng,0.04933559972774967
+GGG,withdrawal,trend_glossary,0.006573523940103357
+GGG,withdrawal,trend_homepage,0.03132071935918847
+GGG,withdrawal,trend_htmlactivity,0.0
+GGG,withdrawal,trend_oucollaborate,0.008056708985453475
+GGG,withdrawal,trend_oucontent,0.03067003950087961
+GGG,withdrawal,trend_ouelluminate,0.0007838868705749676
+GGG,withdrawal,trend_ouwiki,0.009555153887462224
+GGG,withdrawal,trend_page,0.012536316077366291
+GGG,withdrawal,trend_questionnaire,0.009812835173781257
+GGG,withdrawal,trend_quiz,0.010555371339692362
+GGG,withdrawal,trend_repeatactivity,0.0
+GGG,withdrawal,trend_resource,0.027073434930223062
+GGG,withdrawal,trend_sharedsubpage,0.0
+GGG,withdrawal,trend_subpage,0.030825337205307324
+GGG,withdrawal,trend_url,0.01064897744608531
+GGG,withdrawal,trend_n_submit,0.0390197126577338
+GGG,withdrawal,trend_mean_score,0.07603208518311273
+GGG,withdrawal,trend_n_late,0.0018627138812979658
+GGG,withdrawal,trend_click_pct_in_pres,0.017880476247281625
+GGG,withdrawal,n_active_weeks,0.014242551353362314
+GGG,withdrawal,last_active_week,0.03401608126563896
+GGG,withdrawal,click_slope,0.016381351411552194
+GGG,withdrawal,num_of_prev_attempts,0.015159707825697567
+GGG,withdrawal,studied_credits,0.5342057795175813
+GGG,withdrawal,date_registration,0.02968227368778568
+GGG,withdrawal,module_presentation_length,0.05331948835066135
+GGG,withdrawal,reg_missing,0.0
+GGG,withdrawal,gender_F,0.01712463238268522
+GGG,withdrawal,gender_M,0.003638310606039045
+GGG,withdrawal,region_East Anglian Region,0.008869946323248563
+GGG,withdrawal,region_East Midlands Region,0.01868235234669815
+GGG,withdrawal,region_Ireland,0.0
+GGG,withdrawal,region_London Region,0.0034869091612080407
+GGG,withdrawal,region_North Region,0.00175596938390818
+GGG,withdrawal,region_North Western Region,0.0005267428645723825
+GGG,withdrawal,region_Scotland,0.001235668858872039
+GGG,withdrawal,region_South East Region,0.0013407880205250238
+GGG,withdrawal,region_South Region,0.0005577848199616158
+GGG,withdrawal,region_South West Region,0.0012879186162801843
+GGG,withdrawal,region_Wales,0.00216833150078046
+GGG,withdrawal,region_West Midlands Region,0.006460938300083045
+GGG,withdrawal,region_Yorkshire Region,0.002873157236257375
+GGG,withdrawal,highest_education_A Level or Equivalent,0.017973444281581104
+GGG,withdrawal,highest_education_HE Qualification,0.0005816421898391158
+GGG,withdrawal,highest_education_Lower Than A Level,0.03735179056972428
+GGG,withdrawal,highest_education_No Formal quals,0.002239534240998305
+GGG,withdrawal,highest_education_Post Graduate Qualification,0.0
+GGG,withdrawal,imd_band_0-10%,0.010407441936376428
+GGG,withdrawal,imd_band_10-20,0.0016874770570510544
+GGG,withdrawal,imd_band_20-30%,0.0159391514519931
+GGG,withdrawal,imd_band_30-40%,0.00030384849384766123
+GGG,withdrawal,imd_band_40-50%,0.0008071237940975541
+GGG,withdrawal,imd_band_50-60%,0.017688734628293783
+GGG,withdrawal,imd_band_60-70%,0.005805491917260891
+GGG,withdrawal,imd_band_70-80%,0.00033917396788476156
+GGG,withdrawal,imd_band_80-90%,0.0015636579166111823
+GGG,withdrawal,imd_band_90-100%,0.0015949106497447371
+GGG,withdrawal,imd_band_NA,0.004029119305361745
+GGG,withdrawal,age_band_0-35,0.0015730019986074707
+GGG,withdrawal,age_band_35-55,0.01103451915064252
+GGG,withdrawal,age_band_55<=,0.0
+GGG,withdrawal,disability_N,0.0447600411184005
+GGG,withdrawal,disability_Y,0.006439251507641301

@@ -1,0 +1,24 @@
+\documentclass[tikz,border=4pt]{standalone}
+\usepackage{amsmath,amssymb}\usepackage[scaled]{helvet}\renewcommand\familydefault{\sfdefault}
+\usetikzlibrary{positioning,arrows.meta,fit,backgrounds}
+\definecolor{c1}{HTML}{2F5D8A}\definecolor{c2}{HTML}{D9822B}\definecolor{c3}{HTML}{3C8D5A}
+\tikzset{b/.style={draw=#1,fill=#1!10,rounded corners=2pt,align=center,font=\scriptsize,minimum height=0.7cm,text width=2.3cm,line width=0.7pt},
+ a/.style={-{Latex[length=1.8mm]},line width=0.7pt,draw=black!70}}
+\begin{document}
+\begin{tikzpicture}[node distance=0.32cm and 0.4cm]
+\node[b=c1] (x) {Weekly sequence\\$\mathbf{X}_{1:T}\in\mathbb{R}^{T\times 24}$};
+\node[b=c1,below=of x] (p) {Linear 24$\to$32 + ReLU};
+\node[b=c1,below=of p] (g) {GRU (64)\\$\mathbf{h}_1\dots\mathbf{h}_T$};
+\node[b=c1,below left=0.35cm and -1.0cm of g,text width=1.45cm] (att) {Attention\\$\sum_t\alpha_t\mathbf{h}_t$};
+\node[b=c1,below right=0.35cm and -1.0cm of g,text width=1.45cm] (last) {Last state\\$\mathbf{h}_T$};
+\node[b=c3,right=1.1cm of x] (s) {Static profile\\(41 features)};
+\node[b=c3,below=of s] (m) {MLP 41$\to$64$\to$32\\ReLU, dropout};
+\node[b=c2,below=2.25cm of m,text width=3.2cm] (t) {Shared trunk\\160$\to$128$\to$64, dropout 0.2};
+\node[b=c2,below left=0.4cm and -1.3cm of t,text width=1.7cm,fill=c2!30] (hs) {Head: success\\$\hat p^s$ (masked BCE)};
+\node[b=c2,below right=0.4cm and -1.3cm of t,text width=1.7cm,fill=c2!30] (hw) {Head: withdrawal\\$\hat p^w$ (BCE)};
+\draw[a](x)--(p);\draw[a](p)--(g);\draw[a](g)--(att);\draw[a](g)--(last);\draw[a](s)--(m);
+\draw[a](att.south)|-([yshift=-0.25cm]t.north west)--(t.north west);
+\draw[a](last.south)|-(t.west);
+\draw[a](m)--(t);\draw[a](t)--(hs);\draw[a](t)--(hw);
+\end{tikzpicture}
+\end{document}
